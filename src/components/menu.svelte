@@ -15,8 +15,8 @@
     </div>
     <div id="dropdown-navbar-collapse" class="md:navbar-end collapse hidden grow basis-full overflow-hidden transition-[height] duration-300 max-md:w-full" >
       <ul class="menu md:menu-horizontal gap-2 p-0 text-base max-md:mt-2">
-        <li><a href="/">Home</a></li>
-        <li><a href="/blog">Blog</a></li>
+        <!-- <li><a href="/">Home</a></li> -->
+        <!-- <li><a href="/blog">Blog</a></li> -->
         <!-- <li><a href="/guide">Guide</a></li> -->
         <!-- <li><a href="/guide">Contact</a></li> -->
       </ul>

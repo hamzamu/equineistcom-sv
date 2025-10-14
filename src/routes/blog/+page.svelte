@@ -4,17 +4,6 @@
   let { data }: { data: PageData } = $props();
 </script>
 
-<main class="hidden">
-  <h1>Blog Posts</h1>
-  <ul>
-    {#each data.posts as post}
-      <li>
-        <a href={`/posts/${post.fields.slug}`}>{post.fields.title}</a>
-        <p>{post.fields.date}</p>
-      </li>
-    {/each}
-  </ul>
-</main>
 
 
 
