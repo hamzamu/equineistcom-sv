@@ -1,0 +1,109 @@
+{
+  "site": {
+    "title": "Equineist.com",
+    "description": "A comprehensive resource for horse owners, riders, athletes, and enthusiasts. Explore expert insights, training tips, equine therapy, and the deep bond between humans and horses.",
+    "tagline":"For Horse Owners, Riders and Horse Lovers!",
+    "author": "Hamza Mu",
+    "url": "https://equineist.com",
+    "image": "https://equineist.com/cover.png",
+    "favicon": "/favicon.ico",
+    "themeColor": "#5a3184",
+    "social": {
+      "twitter": "@EquineInsights",
+      "facebook": "https://facebook.com/EquineInsights",
+      "instagram": "https://instagram.com/EquineInsights",
+      "linkedin": "https://linkedin.com/company/equine-insights",
+      "youtube": "https://youtube.com/@EquineInsights"
+    },
+    "meta": {
+      "charset": "UTF-8",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "robots": "index, follow",
+      "googlebot": "index, follow",
+      "og": {
+        "title": "Equineist.com | Horse Riding & Therapy Guide",
+        "description": "Expert insights for horse lovers, riders, and athletes. Discover training, care, and healing through equine connection.",
+        "image": "https://equineist.com/cover.png",
+        "type": "website",
+        "url": "https://equineist.com"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "site": "@EquineInsights",
+        "creator": "@EquineInsights",
+        "image": "https://equineist.com/cover.png"
+      }
+    },
+    "categories": [
+      {
+        "slug": "riding",
+        "name": "Riding & Training",
+        "description": "Techniques, styles, and tips for all levels of equestrian riding."
+      },
+      {
+        "slug": "therapy",
+        "name": "Equine Therapy",
+        "description": "Healing through horse interaction: mental health, autism, PTSD support."
+      },
+      {
+        "slug": "care",
+        "name": "Horse Care",
+        "description": "Nutrition, grooming, health, and daily management of equines."
+      },
+      {
+        "slug": "athletics",
+        "name": "Equine Athletics",
+        "description": "Performance, competition, eventing, dressage, and endurance."
+      },
+      {
+        "slug": "breeds",
+        "name": "Horse Breeds",
+        "description": "Profiles of popular and rare breeds with characteristics and uses."
+      },
+      {
+        "slug": "events",
+        "name": "Events & Shows",
+        "description": "Upcoming competitions, festivals, and community gatherings."
+      }
+    ],
+    "menu": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Categories",
+        "href": "/categories"
+      },
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "analytics": {
+      "enabled": true,
+      "provider": "plausible",
+      "scriptUrl": "https://plausible.io/js/script.js",
+      "dataDomain": "equineist.com"
+    },
+    "features": {
+      "darkMode": true,
+      "search": true,
+      "newsletter": true,
+      "shareButtons": true,
+      "relatedPosts": true
+    },
+    "content": {
+      "defaultImage": "/images/default-cover.jpg",
+      "placeholderImage": "/images/placeholder-horse.jpg"
+    }
+  }
+}
