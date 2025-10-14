@@ -17,8 +17,8 @@
       <ul class="menu md:menu-horizontal gap-2 p-0 text-base max-md:mt-2">
         <li><a href="/">Home</a></li>
         <li><a href="/blog">Blog</a></li>
-        <li><a href="/guide">Guide</a></li>
-        <li><a href="/guide">Contact</a></li>
+        <!-- <li><a href="/guide">Guide</a></li> -->
+        <!-- <li><a href="/guide">Contact</a></li> -->
       </ul>
     </div>
   </div>
