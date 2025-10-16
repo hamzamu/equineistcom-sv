@@ -3,7 +3,7 @@ import FusionCollection from 'fusionable/FusionCollection';
 export function load({ params }) {
   try {
     // Load all posts from the content directory
-    const collection = new FusionCollection().loadFromDir('src/content/posts');
+    const collection = new FusionCollection().loadFromDir('src/content/pages');
     // Get post by slug
     const post = collection.getOneBySlug(params.slug);
     // If no post found, throw a descriptive error
