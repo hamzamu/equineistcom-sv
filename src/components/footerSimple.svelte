@@ -4,10 +4,10 @@
       <p>©2024 <a class="link link-hover font-medium" href="/">Equineist.com</a></p>
     </aside>
     <nav class="text-base-content grid-flow-col gap-4 md:place-self-center md:justify-self-end">
-      <a class="link link-hover" href="#">License</a>
-      <a class="link link-hover" href="#">Help</a>
-      <a class="link link-hover" href="#">Contact</a>
-      <a class="link link-hover" href="#">Policy</a>
+      <!-- <a class="link link-hover" href="#">License</a> -->
+      <!-- <a class="link link-hover" href="#">Help</a> -->
+      <a class="link link-hover" href="/p/contact">Contact</a>
+      <a class="link link-hover" href="/p/privacy_policy">Policy</a>
     </nav>
   </footer>
 </div>
