@@ -7,8 +7,9 @@
   let { data }: { data: PageData } = $props();
 //   console.log(Site.site)
 </script>
-<section class="w-full sm:w-10/12 mx-auto bg-amber-300x my-5">
+<section class="w-full sm:w-9/12 mx-auto bg-amber-300x my-5">
 <Menu/>
+<!--  -->
 <!--  -->
 <div class="container mx-auto px-4 py-8">
   <!-- Header Section -->
@@ -20,13 +21,14 @@
       <p class="text-lg text-gray-600 mb-6">
         {Site.site.description}
       </p>
-      <a href="#" class="inline-flex items-center px-6 py-3 bg-purple-600 hover:bg-purple-700 text-white font-medium rounded-lg transition-colors duration-300">
+      <a href="/blog" class="inline-flex items-center px-6 py-3 bg-purple-600 hover:bg-purple-700 text-white font-medium rounded-lg transition-colors duration-300">
         See All Blogs
         <svg xmlns="http://www.w3.org/2000/svg" class="ml-2 h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
           <path fillRule="evenodd" d="M10.293 15.707a1 1 0 010-1.414l5.293-5.293-5.293-5.293a1 1 0 111.414-1.414l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414 0z" clipRule="evenodd" />
         </svg>
       </a>
      </div>
+     <!--  -->
     </div>
     <!-- Grid of Blog Cards -->
     <div class="lg:w-2/3x w-full grid grid-cols-1 md:grid-cols-2 gap-6">
