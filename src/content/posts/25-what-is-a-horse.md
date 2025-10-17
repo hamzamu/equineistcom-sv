@@ -11,7 +11,6 @@ modified: 10/14/2025, 11:25:27 AM
 author: Hamza Mousa
 ---
 
-
 What is a Horse?
 
 
