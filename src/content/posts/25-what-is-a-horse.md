@@ -17,7 +17,7 @@ It’s not just a beast of burden. Not just a pet. Not just a vehicle for recrea
 
 A horse, in its true essence, is a complex, intelligent, and deeply social being, a creature forged by millennia of evolution, history, and partnership with humans. To see a horse as anything less is to miss the profound truth of who they are.
 
-![](../../static/posts/sZlpUkdQxkhxx.jpg)
+![](/posts/sZlpUkdQxkhxx.jpg)
 
 From my own journey, of healing, fatherhood, and rediscovery, I’ve come to understand that a horse is:
 
@@ -25,7 +25,7 @@ From my own journey, of healing, fatherhood, and rediscovery, I’ve come to und
 
 **A Sportive Animal.** They were born to run, leap, and push limits. Their bodies are built for endurance, power, and grace. To keep a horse idle in a stall, fed but unchallenged, is to deny his nature. Movement isn’t optional, it’s essential. The gallop isn’t just exercise; it’s freedom. The rhythm of the ride isn’t just pleasure, it’s purpose.
 
-![](../../static/posts/OnwrsOcuE09aK.jpg)
+![](/posts/OnwrsOcuE09aK.jpg)
 
 **A Creature of War.** History remembers them as soldiers. Knights rode them into battle, charging through fire and fear. They stood firm when men faltered. “He who holds the reins of a warhorse holds the fate of nations,” an old proverb says. And Abraham Lincoln once said, “I can make a general in five minutes, but a good horse is hard to replace.” That’s not hyperbole. It’s respect.
 
