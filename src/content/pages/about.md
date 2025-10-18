@@ -20,7 +20,7 @@ Horses don’t judge. They listen. They respond. And in their stillness, they te
 That realization led me to write my first book:
 
 ***"The Silent Healers: Horses, Health, and the Mind-Body Connection"***  
-— a deeply researched exploration of equine-assisted therapy, the neurobiology of human-horse bonding, and the overlooked role of horses in mental wellness and trauma recovery.
+,  a deeply researched exploration of equine-assisted therapy, the neurobiology of human-horse bonding, and the overlooked role of horses in mental wellness and trauma recovery.
 
 It’s not just theory. It’s based on clinical observation, personal experience, and conversations with therapists, trainers, and riders across the world.
 
@@ -28,7 +28,7 @@ Since then, I’ve published several articles on:
 - The history of equine therapy in ancient cultures
 - The psychology of rider confidence and fear
 - Misconceptions in training methods (and why some are dangerously common)
-- How endurance riding builds resilience — in both horse and rider
+- How endurance riding builds resilience ,  in both horse and rider
 
 You can find these pieces on **[Medevel.com](https://medevel.com)** and scattered throughout journals and equestrian forums, always written with rigor, humility, and heart.
 
@@ -44,7 +44,7 @@ We’ve trained together for endurance rides across rugged terrain, from desert 
 
 Endurance riding has taught me more about patience, mindfulness, and trust than any textbook ever could.
 
-And yes — I wear the same gear as him. No exceptions. If he’s carrying weight, so am I. If he’s tired, I’m tired too. That’s the pact we made.
+And yes ,  I wear the same gear as him. No exceptions. If he’s carrying weight, so am I. If he’s tired, I’m tired too. That’s the pact we made.
 
 ---
 
@@ -95,7 +95,7 @@ So let’s ride, not to conquer, but to connect.
 Not to win, but to understand.
 
 With gratitude,  
-— * Equineist*
+,  * Equineist*
 
 > P.S. Kuzey says “hi.” And yes, he’s waiting for his next ride.
 
@@ -104,6 +104,6 @@ With gratitude,
 ### Why This Works:
 - **Authentic voice**: Matches your background, values, and passion.
 - **Credibility**: Highlights your book, articles, medical expertise, and real-life experience.
-- **Emotional resonance**: Connects science, emotion, and action — especially around healing and trust.
+- **Emotional resonance**: Connects science, emotion, and action ,  especially around healing and trust.
 - **Clear call-to-action**: Invites engagement without being pushy.
 - **Brand consistency**: Reinforces your dual identity as a doctor/developer and a rider.

@@ -6,11 +6,11 @@ slug: privacy_policy
 *Last Updated: October 17, 2025*
 **Website:** [Equineist.com](https://equineist.com)
 
-Hi there — welcome to *Equineist*.
+Hi there ,  welcome to *Equineist*.
 
-I’m a doctor, a coder, and an accidental horse owner who writes about medicine, horsemanship, and the curious intersections between them. This site is personal, thoughtful, and built with care — just like the horses I ride and the code I write.
+I’m a doctor, a coder, and an accidental horse owner who writes about medicine, horsemanship, and the curious intersections between them. This site is personal, thoughtful, and built with care ,  just like the horses I ride and the code I write.
 
-This Privacy Policy explains how I collect, use, protect, and share your information when you visit *Equineist.com*. No shady tracking. No selling data. Just transparency — because trust matters.
+This Privacy Policy explains how I collect, use, protect, and share your information when you visit *Equineist.com*. No shady tracking. No selling data. Just transparency ,  because trust matters.
 
 ---
 
@@ -34,7 +34,7 @@ Like most websites, *TheEquineist.com* collects some basic technical data automa
 - IP address (used anonymously for security and traffic analysis)
 - Pages visited and time spent on site
 
-This data helps me understand how people use the site so I can keep it useful, fast, and safe — not to profile you.
+This data helps me understand how people use the site so I can keep it useful, fast, and safe ,  not to profile you.
 
 ---
 
@@ -55,14 +55,14 @@ All third-party services comply with GDPR and CCPA standards where applicable.
 
 ## 🔒 How I Protect Your Data
 
-Your privacy is important — so here’s what I do:
+Your privacy is important ,  so here’s what I do:
 - All communication (emails, forms) is encrypted.
 - No sensitive personal data (like health records or financial info) is collected.
 - I don’t store passwords or session data longer than necessary.
 - I regularly back up the site and review security practices.
 - If a breach ever occurs, I’ll notify affected users promptly and clearly.
 
-> 💡 I’m a doctor — I know how serious data leaks can be. So I treat your information like my patients’ records: confidential, protected, and respected.
+> 💡 I’m a doctor ,  I know how serious data leaks can be. So I treat your information like my patients’ records: confidential, protected, and respected.
 
 ---
 
@@ -74,7 +74,7 @@ Your privacy is important — so here’s what I do:
 - Sell or rent your email or details to anyone
 - Share your data with advertisers, marketers, or data brokers
 
-If you’re concerned about cookies, you can disable them in your browser settings — though this may affect site functionality slightly.
+If you’re concerned about cookies, you can disable them in your browser settings ,  though this may affect site functionality slightly.
 
 ---
 
@@ -98,7 +98,7 @@ Have questions about this policy? Want to discuss privacy, ethics, or tech in eq
 
 📧 Email: **hamza@medevel.com**  
 🌐 Website: [Equineist.com](https://equineist.com)  
-📍 Based in a quiet corner of the internet — but always listening.
+📍 Based in a quiet corner of the internet ,  but always listening.
 
 ---
 
@@ -110,19 +110,19 @@ I may update this Privacy Policy from time to time. When I do, I’ll post the l
 
 ## ❤️ Final Note
 
-This site is made by a doctor who believes in truth, a developer who values open systems, and a rider who loves horses — not algorithms or profit.
+This site is made by a doctor who believes in truth, a developer who values open systems, and a rider who loves horses ,  not algorithms or profit.
 
 You’re not just a visitor. You’re part of a community that cares about integrity, safety, and meaningful conversation.
 
-So thank you — for reading, sharing, and being here.
+So thank you ,  for reading, sharing, and being here.
 
-— *Equineist*
+,  *Equineist*
 
 ---
 
 ### ✅ Why This Works:
-- **Clear, friendly tone** — matches your brand voice (professional, human, thoughtful).
-- **Transparent about tools** — no jargon, no hidden tracking.
-- **Reinforces your credibility** — as a doctor, you naturally emphasize privacy and ethics.
-- **Easy to scan** — uses bullet points, tables, emojis, and short sections.
-- **Legal compliance** — covers GDPR, CCPA, data rights, opt-outs.
+- **Clear, friendly tone** ,  matches your brand voice (professional, human, thoughtful).
+- **Transparent about tools** ,  no jargon, no hidden tracking.
+- **Reinforces your credibility** ,  as a doctor, you naturally emphasize privacy and ethics.
+- **Easy to scan** ,  uses bullet points, tables, emojis, and short sections.
+- **Legal compliance** ,  covers GDPR, CCPA, data rights, opt-outs.
