@@ -12,7 +12,7 @@
         <!-- Image -->
         {#if post.fields.cover}
           <img 
-            src={`/posts/${post.fields.cover}`} 
+            src={`/post_covers/${post.fields.cover}`} 
             alt={post.fields.title} 
             class="w-full h-48 object-cover"
           />

@@ -20,7 +20,7 @@
     > -->
 
 
-    <img src={'/posts/'+post.fields.cover} title={post.fields.title} class="w-full md:w-40 h-32 object-cover rounded-lg"/>
+    <img src={'/post_covers/'+post.fields.cover} title={post.fields.title} class="w-full md:w-40 h-32 object-cover rounded-lg"/>
 
     <!-- Content -->
     <div class="flex-1">

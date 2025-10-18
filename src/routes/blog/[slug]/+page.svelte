@@ -15,7 +15,7 @@
 <div class="post w-full justify-center flex ">
     <div class="prose !max-w-none">
         <h1>{data.post.fields.title}</h1>
-        <img src={'/posts/'+data.post.fields.cover} title={data.post.fields.title}/>
+        <img src={'/post_covers/'+data.post.fields.cover} title={data.post.fields.title}/>
         <p>{formatDate(data.post.fields.date)}</p>
         {@html postContentHTML}
     </div>
