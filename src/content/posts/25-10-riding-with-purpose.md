@@ -4,7 +4,7 @@ slug: the-rider-s-dilemma-why-you-should-never-ride-a-horse-that-s-not-right-for
 date: 2025-10-18
 created: 2025-10-18 10:27:35
 modified: 2025-10-18 10:27:42
-cover: 33.jpg
+cover: m_11.jpg
 author: Hamza Mousa
 ---
 
