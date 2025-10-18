@@ -5,6 +5,7 @@ created: 2025-10-18 09:02:38
 modified: 2025-10-18 09:02:44
 cover: 33.jpg
 author: Hamza Mousa
+tags: education,horse,philosophy,riding,book
 ---
 
 
