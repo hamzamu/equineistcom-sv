@@ -5,7 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"dev": "vite dev",
-		"build": "npm run generate-sitemap && vite build",
+		"build": "npm run generate-rss && npm run generate-sitemap && vite build",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
@@ -14,7 +14,8 @@
 		"lint": "prettier --check . && eslint .",
 		"test:unit": "vitest",
 		"test": "npm run test:unit -- --run",
-		"generate-sitemap": "node scripts/generate-sitemap.js"
+		"generate-sitemap": "node scripts/generate-sitemap.js",
+		"generate-rss": "node scripts/generate-rss.js"
 	},
 	"devDependencies": {
 		"@eslint/compat": "^1.4.0",
