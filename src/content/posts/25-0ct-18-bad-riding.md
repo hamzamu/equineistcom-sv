@@ -2,6 +2,8 @@
 title: "The Hidden Cost of Ignorance: Why Bad Riding Lessons Can Kill Horses and Hurt People"
 slug: the-hidden-cost-of-ignorance-why-bad-riding-lessons-can-kill-horses-and-hurt-people
 date:  2025-10-18
+created: 2025-10-18 08:54:39
+modified: 2025-10-18 08:54:45
 cover: 44.jpg
 author: Hamza Mousa
 ---
