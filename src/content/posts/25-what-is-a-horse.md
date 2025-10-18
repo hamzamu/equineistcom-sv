@@ -18,9 +18,6 @@ It’s not just a beast of burden. Not just a pet. Not just a vehicle for recrea
 A horse, in its true essence, is a complex, intelligent, and deeply social being, a creature forged by millennia of evolution, history, and partnership with humans. To see a horse as anything less is to miss the profound truth of who they are.
 
 
-
-
-
 From my own journey, of healing, fatherhood, and rediscovery, I’ve come to understand that a horse is:
 
 ### **A Herd Animal.** 
