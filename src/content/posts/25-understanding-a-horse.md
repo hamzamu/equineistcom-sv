@@ -1,5 +1,5 @@
 ---
-title: What Is a Horse? The Scientific & Philosophical Truths We Must Understand
+title: "What Is a Horse? The Scientific & Philosophical Truths We Must Understand"
 date: 2025-10-18
 created: 2025-10-18 09:02:38
 modified: 2025-10-18 09:02:44
