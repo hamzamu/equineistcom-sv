@@ -28,7 +28,7 @@ Let’s talk about what a horse *really* is.
 
 ---
 
-### ❓ Why Does This Matter?
+### Why Does This Matter?
 
 Because your horse isn’t a robot. He’s not a tool. He’s not a piece of property.
 
@@ -42,7 +42,7 @@ But the truth? **The error is always on the saddle.**
 
 ---
 
-### 🧠 What Is a Horse? (The Science)
+### What Is a Horse? (The Science)
 
 Let’s start with facts.
 
@@ -84,7 +84,7 @@ That’s not poetry. That’s neuroscience.
 
 ---
 
-### 💡 What We Get Wrong (And Why It Hurts)
+### What We Get Wrong (And Why It Hurts)
 
 Here are the myths I’ve seen destroy relationships:
 
@@ -105,7 +105,7 @@ Here are the myths I’ve seen destroy relationships:
 
 ---
 
-### 🔍 How to Spot the Real Horse
+### How to Spot the Real Horse
 
 Ask yourself:
 - Does my horse have a stable routine?
@@ -118,7 +118,7 @@ If not, the problem isn’t the horse. It’s the handler.
 
 ---
 
-### ✅ 7 Recommendations for Riders
+### 7 Recommendations for Riders
 
 Based on what I’ve learned, from pain, from failure, from watching others suffer, here’s what you must do:
 
