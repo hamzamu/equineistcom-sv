@@ -53,7 +53,7 @@
       <!-- Card 1 -->
       {#each data.posts as post}
       <div class="relative overflow-hidden rounded-xl group cursor-pointer">
-        <img src={'/posts/'+post.fields.cover} title={post.fields.title} class="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"/>
+        <img src={'/post_covers/'+post.fields.cover} title={post.fields.title} class="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"/>
         <div class="absolute inset-0 bg-black/50 bg-opacity-40 group-hover:bg-black/80 transition-all flex flex-col justify-end p-6">
           <h3 class="text-xl font-semibold text-white mb-2"><a href={`/blog/${post.fields.slug}`}>{post.fields.title}</a></h3>
           <p class="text-white text-sm mb-4 line-clamp-2">{formatDate(post.fields.date)}</p>
