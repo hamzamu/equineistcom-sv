@@ -2,15 +2,10 @@
 title: "Contact us"
 slug: contact
 ---
-Certainly! Here's a polished, professional, and welcoming **Contact Page** content for *The Equineist.com* that aligns with your voice, mission, and dual identity as a medical doctor, software developer, and horse enthusiast — while inviting guest contributions:
 
----
 
-## 📩 Contact The Equineist
 
-Hi there — thanks for visiting *The Equineist*.  
-
-Whether you're a rider, veterinarian, equine therapist, tech-savvy equestrian, open-source advocate, or someone who’s just curious about how medicine, code, and horsemanship come together — you’re in the right place.
+Hi there — thanks for visiting *The Equineist*.   Whether you're a rider, veterinarian, equine therapist, tech-savvy equestrian, open-source advocate, or someone who’s just curious about how medicine, code, and horsemanship come together — you’re in the right place.
 
 I’m a medical doctor, software developer, and accidental horse owner who writes about what I see, learn, and worry about in the riding world. My goal? To share honest, well-reasoned insights — the kind that aren’t always spoken aloud, but should be.
 
@@ -61,4 +56,3 @@ I also write about healthcare innovation, open-source technology, and Linux at *
 - **Differentiation**: Positions *The Equineist* not just as a blog, but as a **community platform** for meaningful discourse.
 - **Cross-promotion**: Naturally includes your *Medevel.com* work without feeling forced.
 
-Let me know if you'd like a version with a form (HTML/CSS), or a shorter social media-friendly variant!

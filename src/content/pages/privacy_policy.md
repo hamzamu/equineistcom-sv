@@ -126,5 +126,3 @@ So thank you — for reading, sharing, and being here.
 - **Reinforces your credibility** — as a doctor, you naturally emphasize privacy and ethics.
 - **Easy to scan** — uses bullet points, tables, emojis, and short sections.
 - **Legal compliance** — covers GDPR, CCPA, data rights, opt-outs.
-
-Let me know if you'd like a printable PDF version, a cookie banner text, or a version adapted for WordPress or static site hosting!

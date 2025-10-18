@@ -107,5 +107,3 @@ With gratitude,
 - **Emotional resonance**: Connects science, emotion, and action — especially around healing and trust.
 - **Clear call-to-action**: Invites engagement without being pushy.
 - **Brand consistency**: Reinforces your dual identity as a doctor/developer and a rider.
-
-Let me know if you'd like a shorter version, a downloadable PDF, or a social media teaser!
