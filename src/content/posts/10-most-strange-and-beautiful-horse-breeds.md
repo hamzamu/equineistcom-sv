@@ -6,7 +6,7 @@ slugx: 10-most-strange-and-beautiful-horse-breeds
 cover: 5-post.jpg
 date: 2024-09-27 11:02:03.814Z
 created: 2024-09-27 11:02:03.814Z
-tags: horse, horse breeds, horses, breeds, horse care, list
+tags: horse, horse breeds, horses, breeds, horse-care, list
 modified: 2024-09-27 11:08:08.167Z
 author: Hamza Mousa
 ---

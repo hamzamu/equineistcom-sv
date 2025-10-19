@@ -1,8 +1,8 @@
 {
   "site": {
     "title": "Equineist.com",
-    "description": "A comprehensive resource for horse owners, riders, athletes, and enthusiasts. Explore expert insights, training tips, equine therapy, and the deep bond between humans and horses.",
-    "tagline":"For Horse Owners, Riders and Horse Lovers!",
+    "description": "A comprehensive resource for horse-owners, riders, athletes, and enthusiasts. Explore expert insights, training tips, equine therapy, and the deep bond between humans and horses.",
+    "tagline":"For horse-owners, Riders and Horse Lovers!",
     "author": "Hamza Mu",
     "url": "https://equineist.com",
     "image": "https://equineist.com/cover.png",
@@ -47,7 +47,7 @@
       },
       {
         "slug": "care",
-        "name": "Horse Care",
+        "name": "horse-care",
         "description": "Nutrition, grooming, health, and daily management of equines."
       },
       {

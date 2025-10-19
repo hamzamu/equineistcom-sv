@@ -25,7 +25,7 @@ Based on the powerful themes, personal journey, and core messages of your book *
     *   *Why:* Expand on your advice to "listen to your gut." Discuss the importance of matching temperament, discipline, and skill level between rider and horse. Include signs of a bad match and what to do if you realize you've made a mistake.
 
 9.  **"A Doctor's View: The Physical and Mental Health Benefits of Working with Horses"**  
-    *   *Why:* Leverage your medical background. Write an evidence-based piece on the documented benefits of horse care and riding for mental health (reducing anxiety, depression) and physical health (improving balance, coordination, core strength).
+    *   *Why:* Leverage your medical background. Write an evidence-based piece on the documented benefits of horse-care and riding for mental health (reducing anxiety, depression) and physical health (improving balance, coordination, core strength).
 
 10. **"The Unbreakable Bond: How a Promise to My Son Became a Lifelong Mission for Horses"**  
-    *   *Why:* Connect the personal promise to your son directly to your larger mission of advocacy. This article would be a powerful manifesto, summarizing why you write, teach, and fight for better horse care, making it clear that this is more than a hobby—it's a purpose.
+    *   *Why:* Connect the personal promise to your son directly to your larger mission of advocacy. This article would be a powerful manifesto, summarizing why you write, teach, and fight for better horse-care, making it clear that this is more than a hobby—it's a purpose.

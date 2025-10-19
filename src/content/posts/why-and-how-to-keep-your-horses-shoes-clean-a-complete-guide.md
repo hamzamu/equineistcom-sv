@@ -6,7 +6,7 @@ slugx: why-and-how-to-keep-your-horses-shoes-clean-a-complete-guide
 cover: 2-post.jpg
 date: 2024-09-13 14:13:45.734Z
 created: 2024-09-13 14:13:45.734Z
-tags: horse, horses care, horse-care, horse owners
+tags: horse, horses care, horse-care, horse-owners
 modified: 2024-09-13 14:56:14.495Z
 author: Hamza Mousa
 ---

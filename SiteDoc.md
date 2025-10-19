@@ -13,7 +13,7 @@ Absolutely! Here’s **a powerful, emotionally resonant, and professional frontp
 ### **Hero Section (Main Banner)**
 
 > **Ride With Confidence. Care With Clarity. Live With Love.**  
-> *Built by a horse owner, for horse owners.*  
+> *Built by a horse owner, for horse-owners.*  
 
 You know that feeling — the wind in your hair, the rhythm of hooves on earth, the quiet bond between rider and horse. But behind every great ride is a thousand decisions: What should I feed my mare? Is this app worth it? Where can I find a safe, kind stable near me?
 
@@ -25,7 +25,7 @@ We’re not here to sell you gear or push affiliate links. We’re here to **hel
 
 Every horse deserves a guardian who knows their needs, their quirks, and their spirit. As a horse owner myself, I’ve spent years learning through trial, error, and late-night Google searches. I’ve seen horses thrive — and struggle — because of small choices: a wrong saddle pad, an outdated farrier, a missed health sign.
 
-That’s why I built **EquiKnow**: a real, honest, no-fluff platform made by horse owners, for horse owners. No corporate jargon. No AI-generated fluff. Just practical wisdom, tested tools, and trusted advice — all in your language.
+That’s why I built **EquiKnow**: a real, honest, no-fluff platform made by horse-owners, for horse-owners. No corporate jargon. No AI-generated fluff. Just practical wisdom, tested tools, and trusted advice — all in your language.
 
 We’re creating a living library of:
 - **Dozens of expert guides** on everything from lameness prevention to pasture management.
@@ -60,7 +60,7 @@ It’s a promise:
 
 - “Explore 50+ Free Guides”  
 - “Find Your Perfect Stable Now”  
-- “Get Weekly Horse Care Tips (Free)”  
+- “Get Weekly horse-care Tips (Free)”  
 - “See How AI Can Help Your Horse”  
 - “Join the Global Horse Owner Network”
 

@@ -5,7 +5,7 @@ index: 0
 cover: 8-post.jpg
 date: 2025-10-17
 created: 2025-10-17 13:26:35
-tags: horse, horse breeds, horses, breeds, horse care, list
+tags: horse, horse breeds, horses, breeds, horse-care, list
 modified: 2025-10-17 13:26:41
 author: Hamza Mousa
 ---

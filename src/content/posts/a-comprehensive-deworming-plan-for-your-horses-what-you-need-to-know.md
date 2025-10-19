@@ -6,7 +6,7 @@ slugx: a-comprehensive-deworming-plan-for-your-horses-what-you-need-to-know
 cover: 6-post.jpg
 date: 2024-09-12 02:09:30.460Z
 created: 2024-09-12 02:09:30.460Z
-tags: horse care, deworming, medicine, vet, horses
+tags: horse-care, deworming, medicine, vet, horses
 modified: 2024-09-12 03:34:12.573Z
 author: Hamza Mousa
 ---
