@@ -1,4 +1,4 @@
-<div class="w-full sm:w-4/12 mx-auto">
+<div class="w-full sm:w-4/12 mx-auto border-t border-gray-400/50">
   <footer class="footer items-center px-6 py-4">
     <aside class="grid-flow-col items-center">
       <p>©2024 <a class="link link-hover font-medium" href="/">Equineist.com</a></p>

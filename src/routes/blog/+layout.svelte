@@ -8,11 +8,11 @@
 <svelte:head>
 </svelte:head>
 <!--  -->
-<section class="w-full sm:w-6/12 mx-auto bg-amber-300x my-5 bg-amber-800x h-auto flex justify-center border-bx border-gray-100">
+<section class="w-full sm:w-10/12 mx-auto bg-amber-300x my-5 bg-amber-800x h-auto flex justify-center border-bx border-gray-100">
 <Menu/>
 </section>
 <!--  -->
 <!-- TODO: Fix for More and Better Responsive -->
-<section class="w-fullx sm:w-6/12 mx-auto bg-amber-300x my-5  h-auto flex justify-center p-5">
+<section class="w-fullx sm:w-10/12 mx-auto bg-amber-300x my-5  h-auto flex justify-center p-5">
     {@render children?.()}
 </section>

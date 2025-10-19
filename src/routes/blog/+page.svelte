@@ -3,7 +3,7 @@
   import { formatDate } from '$lib/dateUtils'; 
   let { data }: { data: PageData } = $props();
 </script>
-<div class="container mx-auto px-4 py-8">
+<div class="containerx mx-auto px-4 py-8">
   <!-- Post 1 -->
    {#each data.posts as post}
   <div class="flex flex-col md:flex-row items-start gap-6 py-6 border-b border-gray-200">
