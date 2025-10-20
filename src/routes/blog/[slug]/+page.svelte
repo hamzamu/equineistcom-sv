@@ -12,7 +12,7 @@
 	<title>{data.post.fields.title} | Equineist.com</title>
 </svelte:head>
 <!--  -->
-<div class="post w-full justify-center flex ">
+<div class="post w-full justify-center flex p-4 ">
     <div class="prose !max-w-none">
         
         <img src={'/post_covers/'+data.post.fields.cover} title={data.post.fields.title}/>
