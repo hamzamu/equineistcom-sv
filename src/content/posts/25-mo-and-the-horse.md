@@ -38,7 +38,7 @@ And every time he finishes? He steps back, looks at the horse, and says, *“Goo
 Now, when we go out, Mo leads. Not with force. Not with yelling. With calm, clear direction.
 
 He walks ahead, his hand on the lead rope, eyes scanning the path. He stops when the horse hesitates. He waits when the ground is uneven. He doesn’t push. He *guides*.
-![Mo Lesson](/post_covers/_mo_14.jpg)
+![Mo Lesson](/post_covers/_mo_23.jpg)
 
 And when he rides? He doesn’t just sit. He *feels*. He listens. He adjusts his body like a dancer. His seat is soft. His hands are light. He doesn’t *control* the horse ,  he *moves with* it.
 
@@ -58,7 +58,7 @@ One boy told me, *“When I’m with the horse, I don’t feel angry anymore.”
 
 Another said, *“I didn’t know horses could think.”*
 
-![Mo Lesson](/post_covers/_mo_17.jpg)
+![Mo Lesson](/post_covers/_mo_32.jpg)
 
 They’re learning things no classroom teaches:
 
