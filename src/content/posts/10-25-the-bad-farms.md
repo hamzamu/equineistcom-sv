@@ -23,6 +23,8 @@ I stood there, heart pounding, staring at the creature that used to be my partne
 
 That moment changed everything.
 
+![](/post_covers/_kuzy_18.jpg)
+
 I vowed then and there: I would never leave my horse again without being present. Without knowing exactly what was happening. Without seeing it with my own eyes.
 
 Because I realized something deep: your horse is not a rental. It’s not a project. It’s not a commodity.
@@ -56,7 +58,7 @@ You’ve bought a horse. You’ve invested time, money, and heart into this part
 
 When you returned, you expected your horse to be safe, cared for, exercised, fed, groomed. Instead, you found something else: confusion, stress, neglect. Your horse was used without your permission. Your saddle? Used by someone else. Your grooming tools? In someone else’s hands. And worse,  no one told you. No check-in. No update. Just silence.
 
-![](/post_covers/_kuzy_18.jpg)
+
 
 I’ve seen this happen over and over. Not just here. Not just in one place. After talking to riders from different countries,  from Europe to North America, from Asia to South America,  I realized this isn’t an isolated issue. It’s a pattern. A cycle. And it’s built on exploitation, deception, and a complete disregard for the horse.
 
