@@ -6,9 +6,10 @@ created: 2025-10-20 12:58:21
 modified: 2025-10-20 12:58:27
 cover: _mo_21.jpg
 tags: education,understanding-horses,what-is-a-horse,horses,horse,self
+author: Hamza Mousa
 ---
-****
 
+***
 
 Let me tell you about the moment I knew my son Mo wasn’t just riding a horse , It wasn’t when he first climbed on. Not even when he managed a full canter around the paddock , though that was incredible. It was *after*.
 
@@ -20,7 +21,10 @@ My son Mo is now 9. He started with horses at 4 ,  not because I pushed him, but
 
 > *"Horses are creatures of discipline. Mo understood that at a young age ,  and that was it!"*
 
-### 🐴 **The Grooming Ritual: Where Respect Begins**
+### **The Grooming Ritual: Where Respect Begins**
+
+![Mo Lesson](/post_covers/_mo_11.jpg)
+
 Before any ride, before any gallop, before a single step forward ,  Mo starts with the brush.
 
 No rush. No noise. Just quiet, steady strokes. He checks hooves. He listens for sounds. He talks softly, like he’s telling the horse a secret.
@@ -29,10 +33,12 @@ I taught him: grooming isn’t just cleaning. It’s communication. It’s trust
 
 And every time he finishes? He steps back, looks at the horse, and says, *“Good boy.”* Not because he wants praise ,  but because he means it.
 
-### 🌟 **Leading the Way: A Leader in Training**
+### **Leading the Way: A Leader in Training**
+
 Now, when we go out, Mo leads. Not with force. Not with yelling. With calm, clear direction.
 
 He walks ahead, his hand on the lead rope, eyes scanning the path. He stops when the horse hesitates. He waits when the ground is uneven. He doesn’t push. He *guides*.
+![Mo Lesson](/post_covers/_mo_14.jpg)
 
 And when he rides? He doesn’t just sit. He *feels*. He listens. He adjusts his body like a dancer. His seat is soft. His hands are light. He doesn’t *control* the horse ,  he *moves with* it.
 
@@ -40,7 +46,8 @@ And when he rides? He doesn’t just sit. He *feels*. He listens. He adjusts his
 
 That’s not just my belief. That’s Mo’s daily practice.
 
-### 👧 **Why Kids Love Horses (And Why They Change)**
+### **Why Kids Love Horses (And Why They Change)**
+
 You know what happens when kids spend real time with horses?
 
 They stop being loud. They stop demanding. They start listening.
@@ -51,7 +58,10 @@ One boy told me, *“When I’m with the horse, I don’t feel angry anymore.”
 
 Another said, *“I didn’t know horses could think.”*
 
+![Mo Lesson](/post_covers/_mo_17.jpg)
+
 They’re learning things no classroom teaches:
+
 - Patience
 - Responsibility
 - Emotional control
@@ -63,7 +73,7 @@ Because horses don’t lie.
 
 If you’re rude, they pull away. If you’re calm, they relax. If you’re inconsistent, they get confused. And if you’re honest? They follow you ,  without hesitation.
 
----
+***
 
 ### **7 Things Every New Rider Should Know (Before You Even Step Near a Horse)**
 
@@ -75,7 +85,7 @@ If you’re rude, they pull away. If you’re calm, they relax. If you’re inco
 6. **You don’t ride to show off. You ride to grow.** Discipline comes from consistency, not ego.
 7. **Always check your gear before riding.** Saddle fit, girth tightness, stirrup length ,  these aren’t small details. They’re life-or-death.
 
----
+***
 
 ### **Warnings: What NOT to Do (Even If Everyone Else Is Doing It)**
 
@@ -87,7 +97,7 @@ If you’re rude, they pull away. If you’re calm, they relax. If you’re inco
 ❌ Don’t believe everything you hear at the barn. Ask questions. Read books. Learn.  
 ❌ Don’t ride just for fun ,  ride with purpose.
 
----
+***
 
 ### **10 Things Every Teen Rider Should Know**
 
@@ -102,7 +112,7 @@ If you’re rude, they pull away. If you’re calm, they relax. If you’re inco
 9. You will fail. That’s okay. What matters is getting back up.
 10. The best riders are humble. The loudest ones? Usually the least skilled.
 
----
+***
 
 ### **7 Things Every Parent Should Know About Horses**
 
@@ -114,7 +124,7 @@ If you’re rude, they pull away. If you’re calm, they relax. If you’re inco
 6. **Horses are not therapy animals ,  but they can heal.** They build resilience, focus, and empathy.
 7. **Your child may become a leader.** Not because they want to ,  but because they earned it.
 
----
+***
 
 ### **Want More? Dive Into the Real Story.**
 
@@ -124,14 +134,13 @@ This isn’t just about Mo. It’s about *you*. It’s about the promise you mak
 
 That promise saved me. It saved my son. It saved our family.
 
-If you’re ready to move beyond the hype, the ego, the “quick fix” culture ,  and build something real, meaningful, and lasting ,  then you need to read **[The Promise: Horses, Healing, and the Human Heart](https://hamzamu.gumroad.com/l/the_promise_book)**.
+If you’re ready to move beyond the hype, the ego, the “quick fix” culture ,  and build something real, meaningful, and lasting ,  then you need to read [The Promise: Horses, Healing, and the Human Heart](https://hamzamu.gumroad.com/l/the_promise_book).
 
 This book is more than stories. It’s a roadmap for real horsemanship. For ethical care. For healing. For fatherhood. For truth.
 
+***
 
----
-
-**P.S.** If you loved this post, you’ll love the rest of my blog.  
+**P.S.** If you loved this post, you’ll love the rest of my blog.
 
 Because horses deserve better. And so do you.
 
