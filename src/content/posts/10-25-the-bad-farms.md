@@ -103,7 +103,7 @@ I’ve seen horses go through three owners in less than a year. Each time, the s
 
 ### **The Fake Gatekeeper Cycle: The 8-Lesson Miracle**
 
-![](/post_covers/_kuzey_same_horse.jpeg)
+
 
 Here’s the worst part,  the illusion. Some farms promise transformation in just eight lessons. “You’ll be riding like a pro!” they say. They teach nothing. Just standing in the saddle during trot. Letting the horse gallop. The rider thinks they’ve mastered it. They feel powerful. Excited. They want to buy a horse.
 
