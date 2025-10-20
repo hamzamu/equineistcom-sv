@@ -23,7 +23,7 @@ I stood there, heart pounding, staring at the creature that used to be my partne
 
 That moment changed everything.
 
-![](/post_covers/_kuzy_18.jpg)
+
 
 I vowed then and there: I would never leave my horse again without being present. Without knowing exactly what was happening. Without seeing it with my own eyes.
 
@@ -32,6 +32,8 @@ Because I realized something deep: your horse is not a rental. It’s not a proj
 It’s your responsibility. Your bond. Your promise.
 
 And if you can’t keep it, then maybe you’re not ready.
+
+![](/post_covers/_kuzy_22.jpg)
 
 So here we are. This article isn’t just about horses. It’s about trust. About ownership. About what happens when you hand over the reins,  and someone else takes the whole ride.
 
@@ -80,7 +82,7 @@ This is the most common violation I’ve seen. A horse owner is busy. They leave
 
 Your horse isn’t a rental. Your equipment isn’t a communal supply. You paid for them. You own them. Yet some farms treat them like free resources. This isn’t care,  it’s theft. And it’s not just about ownership. It’s about welfare. Horses are social, athletic animals. They need movement, interaction, structure. When they’re used non-stop by strangers, without rest or proper training, they burn out. Their bodies break down. Their minds spiral into anxiety.
 
-![](/post_covers/_kuzy_22.jpg)
+
 
 One farm owner even asked me to move there for “education.” He said, “We’ll take care of your horse while you learn.” I smiled. I said, “Good luck.” Because I pay for my horse. For my gear. For my son to ride it. For my guests to share in that moment. Not so others can profit off it.
 
