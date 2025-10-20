@@ -10,7 +10,7 @@ author: Hamza Mousa
 
 
 
-It wasn’t in a barn, under a sun-drenched sky. It was in the cold light of a back-alley offer. People tried to steal my horse. When that failed, they offered me money—*a lot* of money—for something I hold sacred. They didn’t understand. How could they? They were trying to sell a promise. A soul. A life’s commitment.
+It wasn’t in a barn, under a sun-drenched sky. It was in the cold light of a back-alley offer. People tried to steal my horse. When that failed, they offered me money, *a lot* of money, for something I hold sacred. They didn’t understand. How could they? They were trying to sell a promise. A soul. A life’s commitment.
 
 
 
@@ -26,7 +26,7 @@ And yet, all around me, people treat horses like objects. Like toys. Like stock.
 
 
 
-This isn’t just wrong—it’s dangerous.
+This isn’t just wrong, it’s dangerous.
 
 
 
@@ -50,7 +50,7 @@ And they are certainly not profit machines.
 
 
 
-I’ve seen it too many times: trainers who take advantage of busy owners, using their horses without permission, riding them for their own gain. I’ve heard fake experts peddle heavy, outdated tack as “traditional,” charging hundreds for gear that harms both horse and rider. I’ve watched innocent buyers fall for lies—horses sold with hidden injuries, marketed as “perfect” while being pushed past their limits.
+I’ve seen it too many times: trainers who take advantage of busy owners, using their horses without permission, riding them for their own gain. I’ve heard fake experts peddle heavy, outdated tack as “traditional,” charging hundreds for gear that harms both horse and rider. I’ve watched innocent buyers fall for lies, horses sold with hidden injuries, marketed as “perfect” while being pushed past their limits.
 
 
 
@@ -58,7 +58,7 @@ I’ve seen it too many times: trainers who take advantage of busy owners, using
 
 
 
-And worse? Some riders buy a horse not for connection, but for ego. To show off. To prove something. But when the novelty fades—and it always does—the horse becomes a burden. Forgotten. Left behind.
+And worse? Some riders buy a horse not for connection, but for ego. To show off. To prove something. But when the novelty fades, and it always does, the horse becomes a burden. Forgotten. Left behind.
 
 
 
@@ -66,7 +66,7 @@ That’s not horsemanship. That’s neglect. That’s betrayal.
 
 
 
-My horse wasn’t bought. He was chosen. By me. By my son. By a promise. He taught me discipline when I was broken. He gave me focus when I had none. He carried me through dark times—not just physically, but emotionally.
+My horse wasn’t bought. He was chosen. By me. By my son. By a promise. He taught me discipline when I was broken. He gave me focus when I had none. He carried me through dark times, not just physically, but emotionally.
 
 
 
@@ -82,7 +82,7 @@ If you want a horse, ask yourself: *Why?* Is it for joy? For connection? Or for 
 
 
 
-Because if you’re not ready to commit—time, energy, heart—you shouldn’t have one. Horses need routine. They thrive on structure. They don’t survive on weekends and spare time.
+Because if you’re not ready to commit, time, energy, heart, you shouldn’t have one. Horses need routine. They thrive on structure. They don’t survive on weekends and spare time.
 
 
 
@@ -102,7 +102,7 @@ Because they haven’t met the real thing. They haven’t felt the weight of a p
 
 
 
-If you’re ready to build a bond that lasts—a relationship built on truth, responsibility, and mutual respect—then you’re ready for *The Promise: Horses, Healing, and the Human Heart*.
+If you’re ready to build a bond that lasts, a relationship built on truth, responsibility, and mutual respect, then you’re ready for *The Promise: Horses, Healing, and the Human Heart*.
 
 
 
