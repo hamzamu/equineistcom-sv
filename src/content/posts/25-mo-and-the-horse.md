@@ -5,7 +5,7 @@ date: 2025-10-20
 created: 2025-10-20 12:58:21
 modified: 2025-10-20 12:58:27
 cover: _mo_21.jpg
-tags: education,understanding-horses,what-is-a-horse,horses,horse,self
+tags: education,understanding-horses,what-is-a-horse,horses,horse,self,mo
 author: Hamza Mousa
 ---
 

@@ -6,7 +6,7 @@ date: 2025-10-20
 created: 2025-10-20 12:14:20
 modified: 2025-10-20 12:14:25
 author: Hamza Mousa
-tags: education,understanding-horses,what-is-a-horse,horses,horse,self
+tags: education,understanding-horses,what-is-a-horse,horses,horse,self,mo
 ---
 
 
