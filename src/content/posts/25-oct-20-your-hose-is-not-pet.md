@@ -112,4 +112,4 @@ This book is more than stories. It’s a call to change. A manifesto for real ho
 
 👉 **Read the full story. Feel the truth. Discover what your horse really is.**  
 
-[Get Your Copy of *The Promise* Today](https://www.amazon.com/dp/173924680X)
+[Get Your Copy of *The Promise* Today](https://hamzamu.gumroad.com/l/the_promise_book)
