@@ -18,9 +18,13 @@
     <div class="lg:w-1/3 flex flex-col justify-between  h-full ">
     <div class="flex flex-1 flex-col bg-amber-700x">
         <h1 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4">{Site.site.title}</h1>
-      <p class="text-lg text-gray-600 mb-6">
-        {Site.site.description}
-      </p>
+      <div class="text-x text-gray-600 mb-6">
+        {Site.site.desc}
+      </div>
+      <div class="text-x text-gray-600 mb-6">
+        <p><strong>My Goal?</strong></p>
+        {Site.site.desc_2}
+      </div>
       <!--  -->
       <div class="flex flex-col space-y-4">
         <a href="/blog" class="flex flex-row justify-between items-center px-6 py-3 bg-purple-600 hover:bg-purple-700 text-white font-medium rounded-lg transition-colors duration-300">
