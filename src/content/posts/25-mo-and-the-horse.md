@@ -89,13 +89,13 @@ If you’re rude, they pull away. If you’re calm, they relax. If you’re inco
 
 ### **Warnings: What NOT to Do (Even If Everyone Else Is Doing It)**
 
-❌ Don’t let your child “ride” a horse without supervision.  
-❌ Don’t allow hand-feeding. Ever.  
-❌ Don’t use harsh reins or spurs to “teach” a horse.  
-❌ Don’t ignore signs of pain ,  ears pinned, tail swishing, head shaking.  
-❌ Don’t assume your horse is “fine” because it’s smiling. It might be scared.  
-❌ Don’t believe everything you hear at the barn. Ask questions. Read books. Learn.  
-❌ Don’t ride just for fun ,  ride with purpose.
+- ❌ Don’t let your child “ride” a horse without supervision.  
+- ❌ Don’t allow hand-feeding. Ever.  
+- ❌ Don’t use harsh reins or spurs to “teach” a horse.  
+- ❌ Don’t ignore signs of pain ,  ears pinned, tail swishing, head shaking.  
+- ❌ Don’t assume your horse is “fine” because it’s smiling. It might be scared.  
+- ❌ Don’t believe everything you hear at the barn. Ask questions. Read books. Learn.  
+- ❌ Don’t ride just for fun ,  ride with purpose.
 
 ***
 
