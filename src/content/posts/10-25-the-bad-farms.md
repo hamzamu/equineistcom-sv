@@ -71,11 +71,11 @@ I’ve watched riders flail, arms swinging like windmills, hands jerking the rei
 
 
 
-![](/post_covers/kuzey_same_horse_2.jpeg)
+
 
 ### **The “Not a Good Horse” Lie**
 
-![](/post_covers/_kuzy_22.jpg)
+
 
 You buy a horse. You’re excited. You start riding. Then things go wrong. The horse resists. Tosses its head. Swishes its tail. You ask questions. You seek help.
 
