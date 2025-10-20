@@ -1,5 +1,5 @@
 ---
-title: "Mo and The Horse: How a 9-Year-Old Became a Rider, Leader, and Keeper of the Promise"
+title: "Mo and The Horse: How a 8-Year-Old Became a Rider, Leader, and Keeper of the Promise"
 slug: mo-and-the-horse-how-a-9-year-old-became-a-rider-leader-and-keeper-of-the-promise
 date: 2025-10-20
 created: 2025-10-20 12:58:21
@@ -17,7 +17,7 @@ He stood there, breathless, covered in sweat, eyes wide with joy… but not from
 
 That’s when it hit me: this wasn’t just a hobby. This was transformation.
 
-My son Mo is now 9. He started with horses at 4 ,  not because I pushed him, but because something in him *called* to them. And once he met Dakota, the bond was instant.
+My son Mo is now 8. He started with horses at least 8 ,  not because I pushed him, but because something in him *called* to them. And once he met Dakota, the bond was instant.
 
 > *"Horses are creatures of discipline. Mo understood that at a young age ,  and that was it!"*
 
