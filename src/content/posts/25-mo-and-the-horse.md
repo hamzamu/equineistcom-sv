@@ -23,7 +23,7 @@ My son Mo is now 8. He started with horses at least 8 ,  not because I pushed hi
 
 ### **The Grooming Ritual: Where Respect Begins**
 
-![Mo Lesson](/post_covers/_mo_11.jpg)
+![](/post_covers/_mo_11.jpg)
 
 Before any ride, before any gallop, before a single step forward ,  Mo starts with the brush.
 
@@ -37,8 +37,10 @@ And every time he finishes? He steps back, looks at the horse, and says, *“Goo
 
 Now, when we go out, Mo leads. Not with force. Not with yelling. With calm, clear direction.
 
-He walks ahead, his hand on the lead rope, eyes scanning the path. He stops when the horse hesitates. He waits when the ground is uneven. He doesn’t push. He *guides*.
-![Mo Lesson](/post_covers/_mo_23.jpg)
+He walks ahead, his hand on the lead rope, eyes scanning the path. He stops when the horse hesitates. He waits when the ground is uneven. He doesn’t push. He *guides*.  
+
+
+![](/post_covers/_mo_23.jpg)
 
 And when he rides? He doesn’t just sit. He *feels*. He listens. He adjusts his body like a dancer. His seat is soft. His hands are light. He doesn’t *control* the horse ,  he *moves with* it.
 
@@ -58,7 +60,7 @@ One boy told me, *“When I’m with the horse, I don’t feel angry anymore.”
 
 Another said, *“I didn’t know horses could think.”*
 
-![Mo Lesson](/post_covers/_mo_32.jpg)
+![](/post_covers/_mo_32.jpg)
 
 They’re learning things no classroom teaches:
 
@@ -89,12 +91,12 @@ If you’re rude, they pull away. If you’re calm, they relax. If you’re inco
 
 ### **Warnings: What NOT to Do (Even If Everyone Else Is Doing It)**
 
-- ❌ Don’t let your child “ride” a horse without supervision.  
-- ❌ Don’t allow hand-feeding. Ever.  
-- ❌ Don’t use harsh reins or spurs to “teach” a horse.  
-- ❌ Don’t ignore signs of pain ,  ears pinned, tail swishing, head shaking.  
-- ❌ Don’t assume your horse is “fine” because it’s smiling. It might be scared.  
-- ❌ Don’t believe everything you hear at the barn. Ask questions. Read books. Learn.  
+- ❌ Don’t let your child “ride” a horse without supervision.
+- ❌ Don’t allow hand-feeding. Ever.
+- ❌ Don’t use harsh reins or spurs to “teach” a horse.
+- ❌ Don’t ignore signs of pain ,  ears pinned, tail swishing, head shaking.
+- ❌ Don’t assume your horse is “fine” because it’s smiling. It might be scared.
+- ❌ Don’t believe everything you hear at the barn. Ask questions. Read books. Learn.
 - ❌ Don’t ride just for fun ,  ride with purpose.
 
 ***
