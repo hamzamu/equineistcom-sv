@@ -11,11 +11,13 @@ This site is my life’s work, distilled into stories, insights, and tools that 
 
 ---
 
-## 🩺 A Doctor Who Found Healing in the Saddle
+## A Doctor Who Found Healing in the Saddle
 
 As a physician, I’ve spent years diagnosing illness, managing chronic conditions, and advocating for preventive care. But over time, I realized one of the most powerful therapies isn’t found in a pill bottle, it’s found in the arena, on the trail, and in the quiet moments when a horse lowers its head and lets you breathe.
 
 Horses don’t judge. They listen. They respond. And in their stillness, they teach us how to be present, something modern life so often steals from us.
+
+![Mo Lesson](/post_covers/_mo_23.jpg)
 
 That realization led me to write my first book:
 
@@ -47,6 +49,8 @@ Endurance riding has taught me more about patience, mindfulness, and trust than 
 And yes ,  I wear the same gear as him. No exceptions. If he’s carrying weight, so am I. If he’s tired, I’m tired too. That’s the pact we made.
 
 ---
+
+![Mo Lesson](/post_covers/_mo_32.jpg)
 
 ## From Code to Compassion: The Developer Who Loves Horses
 
@@ -99,11 +103,3 @@ With gratitude,
 
 > P.S. Kuzey says “hi.” And yes, he’s waiting for his next ride.
 
----
-
-### Why This Works:
-- **Authentic voice**: Matches your background, values, and passion.
-- **Credibility**: Highlights your book, articles, medical expertise, and real-life experience.
-- **Emotional resonance**: Connects science, emotion, and action ,  especially around healing and trust.
-- **Clear call-to-action**: Invites engagement without being pushy.
-- **Brand consistency**: Reinforces your dual identity as a doctor/developer and a rider.

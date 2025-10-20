@@ -9,6 +9,8 @@ It’s not just another horse book. It’s a raw, powerful memoir about healing,
 
 I wrote *The Promise* because I had to. Not for fame, not for money,though I’ve been offered both, repeatedly. No, I wrote it for my son. When I was drowning in a failing marriage, trapped in silence and darkness, my horse wasn’t just a pet. He was my protector, my confidant, my lifeline. He pulled me out of that prison long before I could save myself. And when he did, he gave me a mission: to be better. To be present. To keep promises.
 
+![Mo Lesson](/post_covers/_mo_31.jpg)
+
 So I made one,to my son. “Baba, don’t sell your horse. I love to see you ride. You smile more when you ride.” That simple sentence became my anchor. I promised him I’d never sell Kuzey. Not for any amount of money. Not even if someone tried to steal him. Because some things can’t be bought. Love. Loyalty. Honor.
 
 But here’s what no one tells you: saving a horse isn’t just about feeding and grooming. It’s about facing your own demons. It’s about learning discipline when you’re tired. It’s about listening,not just with your ears, but with your heart. My horse taught me how to be a better rider, not by force, but by teaching me to listen. And in doing so, he freed me from my old self.
@@ -26,6 +28,8 @@ Then comes **"Why Giving Away My Horse Offends Those Who Never Truly Rode!"**,a 
 One of the most powerful chapters is **"Your Horse is Your Mirror."** Here, I explore how horses reflect our inner state,our anxiety, our ego, our fear. If your horse resists, ask yourself: What am I doing wrong? This isn’t about blame,it’s about accountability. And that’s rare in a world full of excuses.
 
 Another standout is **"What Is a Horse?"**,a philosophical deep dive into equine intelligence, emotion, and social nature. I challenge readers to stop seeing horses as machines or pets. They’re herd animals, sensitive, intelligent beings. They feel joy, fear, trust. They deserve respect,not ownership.
+
+
 
 I also tackle the dark side of riding culture in **"Beware the Fake Gatekeepers of Horse Riding."** These aren’t real experts. They don’t read books. They don’t care about science. They thrive on ignorance, using mystery to control students and profit from their insecurities. I give you tools to spot them: ask them to explain a technique. Ask for sources. Real knowledge isn’t hidden,it’s shared.
 
@@ -54,8 +58,5 @@ Because sometimes, the ones we think we’re saving end up saving us instead.
 If you’re ready to ride with purpose, to heal through honesty, to build something real,then open this book. Turn the page. Let Kuzey lead you home.
 
 *The Promise* isn’t just a book. It’s a vow. And it’s waiting for you.
-
-
-
 
 [Get The Book](https://hamzamu.gumroad.com/l/the_promise_book)
