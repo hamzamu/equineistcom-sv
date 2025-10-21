@@ -1,7 +1,7 @@
 <script lang="ts">
   import type { PageData } from './$types';
   import Showdown from 'showdown';
-//   import Menu from '../../../components/menu.svelte';
+//import Menu from '../../../components/menu.svelte';
   import { formatDate } from '$lib/dateUtils'; 
   let { data }: { data: PageData } = $props();
   const converter = new Showdown.Converter();
@@ -10,8 +10,7 @@
 <!--  -->
 <svelte:head>
 	<title>{data.post.fields.title} | Equineist.com</title>
-
-  <meta name="description" content={data.post.fields.description || data.post.content.substring(0, 160) + '...'} />
+	<meta name="description" content={data.post.fields.description || data.post.content.substring(0, 160) + '...'} />
 	
 	<!-- Open Graph / Facebook -->
 	<meta property="og:title" content={data.post.fields.title} />
