@@ -19,11 +19,11 @@
     <div class="flex flex-1 flex-col bg-amber-700x">
         <h1 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4">{Site.site.title}</h1>
       <div class="text-x text-gray-600 mb-6">
-        {Site.site.desc}
+        {Site.site.tag_linge_2}
       </div>
       <div class="text-x text-gray-600 mb-6">
         <p><strong>My Goal?</strong></p>
-        {Site.site.desc_2}
+        {Site.site.goal_2}
       </div>
       <!--  -->
       <div class="flex flex-col space-y-4">
@@ -47,7 +47,7 @@
           <svg xmlns="http://www.w3.org/2000/svg" class="ml-2 h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
             <path fillRule="evenodd" d="M10.293 15.707a1 1 0 010-1.414l5.293-5.293-5.293-5.293a1 1 0 111.414-1.414l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414 0z" clipRule="evenodd" />
           </svg>
-        </a>                
+        </a>
         <!--  -->
         <!--  -->
         <a href="/tags/" class="flex flex-row justify-between items-center px-6 py-3 bg-purple-600 hover:bg-purple-700 text-white font-medium rounded-lg transition-colors duration-300">
