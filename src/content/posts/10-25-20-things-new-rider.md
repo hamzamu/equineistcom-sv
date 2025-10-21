@@ -30,7 +30,7 @@ Because when you don’t know what you don’t know… that’s when danger hide
 
 ---
 
-![](/post_covers/m_55.webp)
+![](/post_covers/kuzey_same_horse_2.jpeg)
 
 <!--  -->
 ### **1. Helmets Are Not Fashion ,  They’re Survival**
