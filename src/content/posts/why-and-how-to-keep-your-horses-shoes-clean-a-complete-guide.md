@@ -3,8 +3,8 @@ title: "Why and How to Keep Your Horse’s Shoes Clean: A Complete Guide"
 slug: why-and-how-to-keep-your-horses-shoes-clean-a-complete-guide
 index: 2
 slugx: why-and-how-to-keep-your-horses-shoes-clean-a-complete-guide
-cover: 2-post.jpg
-date: 2024-09-13 14:13:45.734Z
+cover: 5-post.jpg
+date: 2024-09-13
 created: 2024-09-13 14:13:45.734Z
 tags: horse, horses care, horse-care, horse-owners
 modified: 2024-09-13 14:56:14.495Z
