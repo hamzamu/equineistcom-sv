@@ -45,6 +45,8 @@ They move like silk over stone.
 
 ## **Temperament Under the Saddle: More Than Just a Smooth Gait**
 
+![Bulgar Rahvan Horse](/post_covers/rahvan_1.jpg)
+
 Let’s be clear: **the rahvan gait is not magic.** It’s biomechanics. It’s evolution.  
 
 It’s a four-beat lateral gait, legs on one side move together before the other, making it faster than a walk, smoother than a trot, and *far less jarring* than most gaits. That’s why travelers and messengers used them for centuries. They could cover 50+ km without tiring the rider.
