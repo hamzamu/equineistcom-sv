@@ -2,7 +2,7 @@
 title: "20 Things Every New Rider Must Know (Before You Fall Off & Break Something)"
 slug: 20-things-every-new-rider-must-know-before-you-fall-off-and-break-something
 desc: "The Safety Checklist No New Rider Should Skip: What They Don’t Teach You at the Barn"
-cover: _mo_31.jpg
+cover: m_55.webp
 date: 2025-10-21
 created: 2025-10-21 09:31:29
 tags: horse,education,horses,new,horse-owners,riders,guide
