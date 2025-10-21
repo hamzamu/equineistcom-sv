@@ -1,6 +1,6 @@
 ---
 title: "Rahvan Horses: The Unseen Workhorses of the Farm ,  Why They’re Not What You Think"
-slug: how-often-should-you-trim-your-horses-shoes-and-why-its-important
+slug: rahvan-horses-unseen-workhorses-farm-not-what-you-think
 cover: rahvan.jpg
 date: 2025-10-21
 created: 2025-10-21 13:10:37
