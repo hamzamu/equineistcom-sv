@@ -51,8 +51,7 @@ Because the day you stop checking… that’s the day he stops being yours.
 
 And you’ll never get him back.
 
-
-<b><span style="color:rgba(16,185,129,1)">When You’re Away: How to Spot a Stable That Truly Cares for Your Horse (Not Just Uses It)</span></span></b>
+<b><span style="color:rgba(16,185,129,1)">When You’re Away: How to Spot a Stable That Truly Cares for Your Horse (Not Just Uses It)</span></span></span></b>
 
 You’ve bought a horse. You’ve invested time, money, and heart into this partnership. You imagined quiet mornings with your equine friend, the rhythm of hooves on dirt, the peace of shared movement under open skies. You thought, finally, I can ride, bond, heal. But then life happened. Work, family, travel,  you couldn’t make it to the stable for days. Maybe weeks.
 
