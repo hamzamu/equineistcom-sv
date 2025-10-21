@@ -22,7 +22,7 @@ And in doing so, they teach us what real horsemanship looks like.
 
 ---
 
-## 🐎 **The Rahvan Paradox: Gentle on the Surface, Storm Beneath**
+## **The Rahvan Paradox: Gentle on the Surface, Storm Beneath**
 
 They’re often called “easy to ride” horses, perfect for beginners, children with autism, veterans with PTSD. No seat required. No balance needed. Just sit. Breathe. Let the amble carry you.
 
@@ -57,23 +57,23 @@ But this gait demands more than just physical fitness. It demands **emotional st
 
 Rahvans don’t tolerate chaos. They thrive on rhythm, repetition, and clarity. They’re creatures of discipline, just like their human partners.
 
-> ✅ *Pro tip:* If your Rahvan suddenly starts tail-swishing, head-tossing, or pulling left/right, check *yourself* first. The problem isn’t the horse. It’s the rider.
+> *Pro tip:* If your Rahvan suddenly starts tail-swishing, head-tossing, or pulling left/right, check *yourself* first. The problem isn’t the horse. It’s the rider.
 
 ---
 
-## 🌍 **Breeds & Bloodlines: From Anatolia to the Balkans**
+## **Breeds & Bloodlines: From Anatolia to the Balkans**
 
 There’s no single "Rahvan." There are *many*, each with its own history, size, and temperament.
 
 ### 🇹🇷 **Local Rahvan (Yerli Rahvan)**  
-- Height: 13.1–13.3 hh  
+- Height: 13.1–13.3 height
 - Build: Lean, athletic, compact  
 - Temperament: Sharp, alert, cautious  
 - Origin: Central Anatolia  
 - Best for: Therapy, trail rides, beginner riders  
 
 ### 🇧🇬 **Bulgar Rahvan**  
-- Height: Up to 15.2 hh  
+- Height: Up to 15.2 height
 - Build: Massive, muscular, powerful  
 - Temperament: Calm but intense; needs experienced handling  
 - Origin: Bulgaria, influenced by Ottoman equestrian traditions  
@@ -89,7 +89,7 @@ These aren’t just breeds, they’re living archives of migration, war, trade, 
 
 ---
 
-## 🏁 **Why Most Riders Don’t Ride Them (And Why That’s a Problem)**
+## **Why Most Riders Don’t Ride Them (And Why That’s a Problem)**
 
 You’ll rarely see a Rahvan at a show ring. Not because they’re bad, because they’re misunderstood.
 
@@ -109,7 +109,7 @@ They care about connection.
 
 ---
 
-## 🔥 **The Warning: This Horse Is Not a Toy**
+## **The Warning: This Horse Is Not a Toy**
 
 Yes, anyone can ride a Rahvan.  
 But that doesn’t mean they should.
@@ -120,7 +120,7 @@ They’re not “just a horse.”
 
 When mistreated, especially after being passed between owners, ridden too hard, or thrown into races without preparation, they can become dangerous. Not out of malice. Out of trauma.
 
-> ❗ **Red flags to watch for:**
+> **Red flags to watch for:**
 > - Ears pinned back
 > - Head tossing, tail swishing
 > - Refusing to walk forward
@@ -132,7 +132,7 @@ Blame the handler. Blame the system. Blame the lack of education.
 
 ---
 
-## 💬 **Final Word: The Rahvan Isn’t About Riding. It’s About Becoming Better.**
+## **Final Word: The Rahvan Isn’t About Riding. It’s About Becoming Better.**
 
 This isn’t a story about a breed.  
 It’s a story about *truth*.
@@ -156,7 +156,7 @@ So yes, we keep Rahvans on our farm.
 Not for fame. Not for profit.  
 But because they teach us what it means to be better humans.
 
-> 🐴 *The promise isn’t to ride well.*  
+> *The promise isn’t to ride well.*  
 > *It’s to become someone worth riding.*
 
 And that?  
