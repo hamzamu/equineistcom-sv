@@ -27,9 +27,9 @@
     {@html `  <script type="application/ld+json">{
    "@context": "https://schema.org",
    "@type": "Website",
-   "name": "${title} | example.com",
-   "url": "https//www.example.com${$page.url.pathname}",
-   "logo": ${image}  }</script>`}
+   "name": "${data.post.fields.title} | Equineist.com",
+   "url": "https://equineist.com/blog/${data.post.fields.slug}",
+   "logo": ${`https://equineist.com/post_covers/`+${data.post.fields.cover}}  }</script>`}
 </svelte:head>
 <!--  -->
 <div class="post w-full justify-center flex p-4">
