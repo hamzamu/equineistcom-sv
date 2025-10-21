@@ -24,12 +24,6 @@
 	<meta name="twitter:description" content={data.post.fields.description || data.post.content.substring(0, 200) + '...'} />
 	<meta name="twitter:image" content={`https://equineist.com/post_covers/${data.post.fields.cover}`} />
 	<meta name="twitter:site" content="@equineist" />
-    {@html `  <script type="application/ld+json">{
-   "@context": "https://schema.org",
-   "@type": "Website",
-   "name": "${data.post.fields.title} | Equineist.com",
-   "url": "https://equineist.com/blog/${data.post.fields.slug}",
-   "logo": ${`https://equineist.com/post_covers/`+${data.post.fields.cover}}  }</script>`}
 </svelte:head>
 <!--  -->
 <div class="post w-full justify-center flex p-4">
