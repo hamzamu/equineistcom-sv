@@ -2,7 +2,7 @@
   import type { PageData } from './$types';
   import { formatDate } from '$lib/dateUtils'; 
   // import Menu from '../components/menu.svelte';
-  import Footer from '../components/footer.svelte';
+  // import Footer from '../components/footer.svelte';
   import Site from '../site.json'
   let { data }: { data: PageData } = $props();
 //   console.log(Site.site)

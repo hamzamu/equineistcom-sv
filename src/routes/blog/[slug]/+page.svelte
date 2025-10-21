@@ -10,6 +10,23 @@
 <!--  -->
 <svelte:head>
 	<title>{data.post.fields.title} | Equineist.com</title>
+
+  <meta name="description" content={data.post.fields.description || data.post.content.substring(0, 160) + '...'} />
+	
+	<!-- Open Graph / Facebook -->
+	<meta property="og:title" content={data.post.fields.title} />
+	<meta property="og:description" content={data.post.fields.description || data.post.content.substring(0, 200) + '...'} />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content={`https://equineist.com/posts/${data.post.fields.slug}`} />
+	<meta property="og:image" content={`https://equineist.com/post_covers/${data.post.fields.cover}`} />
+	<meta property="og:image:alt" content={data.post.fields.title} />
+	
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content={data.post.fields.title} />
+	<meta name="twitter:description" content={data.post.fields.description || data.post.content.substring(0, 200) + '...'} />
+	<meta name="twitter:image" content={`https://equineist.com/post_covers/${data.post.fields.cover}`} />
+	<meta name="twitter:site" content="@equineist" />
 </svelte:head>
 <!--  -->
 <div class="post w-full justify-center flex p-4">
