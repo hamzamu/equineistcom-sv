@@ -13,6 +13,6 @@
 </section>
 <!--  -->
 <!-- TODO: Fix for More and Better Responsive -->
-<section class="w-full sm:w-10/12 md:w-6/12 mx-auto bg-amber-300x my-5  h-auto flex justify-center p-5">
+<section class="w-full sm:w-10/12 md:w-10/12 lg:w-6/12 mx-auto bg-amber-300x my-5  h-auto flex justify-center p-5">
     {@render children?.()}
 </section>
