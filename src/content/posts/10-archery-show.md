@@ -24,7 +24,7 @@ They call this reckless motion the “Saw.” And many traditional horse riders 
 
 So I chose another path, different city, different instructors. I began learning from show jumping instructors. But since my horse is an Arabian, I ultimately chose endurance riding, because it taught me to care for my horse above all else, to put the horse’s well-being first in every ride. And oh, what a decision that turned out to be.
 
-Not long ago, I met a legend in the endurance world, Ozgür Pastanlı,  who dedicated his farm and home to raising and training endurance riders. We spoke at length about the current state of mounted archery, both locally and internationally. He shared how he no longer participates in competitions because he’s seen the same pattern repeat: riders showing up for the first time, shooting arrows within a week, without knowing basic seating techniques on the saddle.
+Not long ago, I met a legend in the endurance world, "Ozgür Pastanlı",  who dedicated his farm and home to raising and training endurance riders. We spoke at length about the current state of mounted archery, both locally and internationally. He shared how he no longer participates in competitions because he’s seen the same pattern repeat: riders showing up for the first time, shooting arrows within a week, without knowing basic seating techniques on the saddle.
 
 I couldn’t agree more.
 
