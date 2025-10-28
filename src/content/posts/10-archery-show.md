@@ -34,3 +34,7 @@ I couldn’t agree more.
 The rules of this discipline have become a joke, to me, and to many others. Still, I haven’t lost hope. Some of those first-week riders who joined just for show eventually leave, but others go on to buy horses, seek proper instruction, and even switch to show jumping or endurance.
 To me, mounted archery isn’t a sport or a discipline anymore, it’s a spectacle. A show business. And that’s how many now see it too. It is, admittedly, an entertaining display of traditional customs and the sight of horses galloping across tracks.
 I hold deep respect for some of the masters I’ve encountered, true horse riders whose skill and wisdom stand out. Yet they make up less than 20% of the riders I’ve seen over the past seven years.
+
+
+I don’t know how it is in other countries, I’m only speaking about what I’ve witnessed where I am. I hope and truly wish that things are different elsewhere, and that this discipline can progress into a genuinely serious practice, not just a spectacle.
+
