@@ -26,6 +26,9 @@ So I chose another path, different city, different instructors. I began learning
 
 Not long ago, I met a legend in the endurance world, "Ozgür Pastanlı",  who dedicated his farm and home to raising and training endurance riders. We spoke at length about the current state of mounted archery, both locally and internationally. He shared how he no longer participates in competitions because he’s seen the same pattern repeat: riders showing up for the first time, shooting arrows within a week, without knowing basic seating techniques on the saddle.
 
+Ozgür Bey also spoke about the fragmentation and segregation within the sport, including the introduction of new rules at every contest, arbitrary separations between athletes and horses, unnecessary classifications, and divisions that make the practice appear anything but serious.
+
+
 I couldn’t agree more.
 
 The rules of this discipline have become a joke, to me, and to many others. Still, I haven’t lost hope. Some of those first-week riders who joined just for show eventually leave, but others go on to buy horses, seek proper instruction, and even switch to show jumping or endurance.
