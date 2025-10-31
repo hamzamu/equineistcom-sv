@@ -5,8 +5,13 @@
   // import Footer from '../components/footer.svelte';
   import Site from '../site.json'
   let { data }: { data: PageData } = $props();
-//   console.log(Site.site)
+  // console.log(Site.site)
 </script>
+<!--  -->
+<svelte:head>
+	<title>{Site.site.title} | {Site.site.desc}</title>
+</svelte:head>
+<!--  -->
 <section class="w-full sm:w-9/12 mx-auto bg-amber-300x my-5">
 <!-- <Menu/> -->
 <!--  -->
