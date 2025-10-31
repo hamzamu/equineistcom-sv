@@ -14,6 +14,27 @@ This isn’t just about choosing a good place to ride. It’s about protecting y
 
 I wrote this because I’ve lived it. I’ve switched farms over a dozen times, each time leaving behind a place where my horse was treated as a means to an end. The worst moment came after I left town for work. When I returned, he wasn’t the same. He was thin, withdrawn, his eyes dull. He didn’t even lift his head when I called his name. That night, I sat beside him in silence, tears falling without warning. I had failed him. Not because I didn’t love him, but because I hadn’t done enough to protect him from a system that doesn’t care.
 
+### Why I wrote this guide?
+
+I’ve seen statistics from farms that left me numb. In one small stable, capacity barely over 25 horses, the kill rate was 13 in a single year. That’s not a number. It’s a massacre disguised as routine.
+
+I stood there, watching it unfold, horses dying one after another, not from injury or illness, but from neglect so deep it became invisible to those who should have seen it. The owners didn’t flinch. No apologies. No investigation. No accountability. Just silence.
+
+It wasn’t an accident. It was a pattern. A culture where death is just part of the cost of doing business.
+
+And the worst part? They don’t even admit it. Not out loud. Not to themselves. Not to anyone. They pretend it’s normal. Like losing a horse is just… life.
+
+But it’s not. Not when you’re standing in a stall where the air still smells of blood and fear. Not when you see a foal born into a world already stacked against him. Not when you know that every time a horse dies, it’s not the animal’s fault, it’s the system’s.
+
+I’ve seen farms where the mortality rate is higher than the birth rate. Where horses are replaced like old tires. Where no one questions why they’re gone, because no one cares enough to look.
+
+This isn’t farming. This isn’t riding. This is abuse dressed up as tradition.
+
+And until someone holds them to account, until we stop treating horse lives as expendable, this will keep happening.
+
+Because the truth is: if a farm can’t keep its horses alive, it has no right to own them.
+
+
 That’s why I began to study. I read everything, books on equine anatomy, behavior, psychology. I studied farrier practices, veterinary medicine, training philosophies. I spent hours observing horses not just at rest, but in motion, in turnout, in handling. I learned to read their bodies, their eyes, their energy. Because I realized something simple but powerful: a horse will tell you everything you need to know, if you’re willing to listen.
 
 
