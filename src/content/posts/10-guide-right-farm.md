@@ -6,6 +6,7 @@ cover: _kuzy_22.jpg
 created: 2025-10-31 10:45:44
 modified: 2025-10-31 10:45:48
 date: 2025-10-31
+author: Hamza Mousa
 ---
 I started writing this guide because I’ve seen too many horses suffer, not from injury or illness, but from ignorance. Not from bad luck, but from people who never stopped to ask the right questions. I’ve ridden hundreds of kilometers on my horse’s back, trained him for years, and watched him transform from a broken animal into a true partner—someone who taught me more about life than any book ever could. And yet, every time I visit a new farm, I see the same patterns: the neglect, the profit-first mindset, the riders who think they’re experts because they’ve been on a horse once.
 
