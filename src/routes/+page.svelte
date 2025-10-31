@@ -9,7 +9,7 @@
 </script>
 <!--  -->
 <svelte:head>
-	<title>{Site.site.title} | {Site.site.desc}</title>
+	<title>{Site.site.desc}</title>
 </svelte:head>
 <!--  -->
 <section class="w-full sm:w-9/12 mx-auto bg-amber-300x my-5">
