@@ -45,7 +45,7 @@ So here is what I’ve learned. This isn’t theory. This is real. This is raw. 
 ### **1. Observe the Horse’s Physical & Mental Condition**  
 First, look at the horses themselves. Not the shiny coats, not the clean stalls, but the condition of their backs, their muscles, their posture. A strong topline isn’t just about looks. It’s about balance. About how they carry themselves, how they move, how they respond to pressure. If a horse walks with stiffness, if its shoulders are uneven, if it tucks its tail constantly, that’s not normal. That’s pain. That’s stress. That’s a sign that something is wrong, not with the horse, but with the environment.
 
-Look beyond the coat and clean stall. Focus on the topline, muscle symmetry, posture, and overall energy. A healthy horse carries itself with balance and ease. If you see stiffness, uneven shoulders, tucked tail, or lethargy, that’s not laziness, it’s pain or stress. The body tells the story.
+Focus on the topline, muscle symmetry, posture, and overall energy. A healthy horse carries itself with balance and ease. If you see stiffness, uneven shoulders, tucked tail, or lethargy, that’s not laziness, it’s pain or stress. The body tells the story.
 
 ![My Horse Kuzey](/post_covers/_mo_31.jpg)
 
@@ -54,8 +54,9 @@ Look beyond the coat and clean stall. Focus on the topline, muscle symmetry, pos
 
 Then watch for behavior. Horses don’t lie. They don’t pretend. If a horse paces, chews wood, flicks its tail violently, or avoids eye contact, it’s not acting out, it’s reacting. To fear. To boredom. To loneliness. I’ve seen horses stall-bound for 20 hours a day, only let out for 30 minutes of “turnout.” That’s not care. That’s imprisonment. And the rider? They call it “training.”
 
-Horses don’t fake emotions. Pacing, weaving, cribbing, tail swishing, or avoiding eye contact are signs of mental distress. These behaviors develop in environments where horses are isolated, overworked, or ignored. If the horse seems anxious or withdrawn, the farm isn’t meeting its basic needs.
+Horses don’t fake emotions easily as humans do. Pacing, weaving, cribbing, tail swishing, or avoiding eye contact are signs of mental distress. These behaviors develop in environments where horses are isolated, overworked, or ignored. If the horse seems anxious or withdrawn, the farm isn’t meeting its basic needs.
 
+I have seen horses locked in the small stalls for weeks and months, without even the chance to exercise, it is like a jail for them.
 
 
 ### **3. Assess Cleanliness & Stable Hygiene**  
