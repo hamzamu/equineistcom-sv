@@ -23,7 +23,7 @@ Ozgur didn’t hesitate.
 
 I didn’t just agree, I felt it in my bones.
 
-Because over the past 15 years, visiting more than 100 farms and clubs across Turkey, I’ve learned this truth: **a farm’s equipment doesn’t reflect its budget, it reflects its soul.**
+Because over the past years, visiting more than 100 farms and horse riding clubs across Turkey, I’ve learned this truth: **a farm’s equipment doesn’t reflect its budget, it reflects its soul, interest and the goal of the farm.**
 
 When I walked into Ozgur’s barn, I saw it immediately. His saddles weren’t old, worn, or patched. They were high-quality endurance saddles, some barely broken in. He has a dedicated workshop, clean and organized, where tack is repaired, adjusted, and inspected monthly. There’s a system: checklists, schedules, records. Not because it’s required, but because it’s respect.
 
