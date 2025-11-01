@@ -103,7 +103,7 @@ Because your horse deserves better.
 
 And so do you.
 
-I wrote a guide for horse owners, riders to understand how to choose the right farm for their horses and riding practice, you can read it here [https://equineist.com/blog/horse-owners-survival-guide-spot-real-farm/](here).
+I wrote a guide for horse owners, riders to understand how to choose the right farm for their horses and riding practice, you can read it [here](https://equineist.com/blog/horse-owners-survival-guide-spot-real-farm/).
 
 ---
 
