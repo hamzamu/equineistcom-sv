@@ -1,0 +1,884 @@
+[
+  {
+    "name": "Bella",
+    "meaning": "Beautiful",
+    "color": ["Bay", "Chestnut", "Palomino"],
+    "horse_character": ["Gentle", "Curious", "Playful"],
+    "name_origin": "Italian/Spanish",
+    "breed": ["Arabian", "Quarter Horse", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Shadow",
+    "meaning": "Darkness or silhouette",
+    "color": ["Black", "Dark Bay", "Gray"],
+    "horse_character": ["Mysterious", "Steady", "Loyal"],
+    "name_origin": "English",
+    "breed": ["Thoroughbred", "Draft Horse", "Warmblood"],
+    "sex": "Male"
+  },
+  {
+    "name": "Storm",
+    "meaning": "A violent disturbance of the atmosphere",
+    "color": ["Black", "Dark Brown", "Roan"],
+    "horse_character": ["Energetic", "Bold", "Determined"],
+    "name_origin": "English",
+    "breed": ["Mustang", "Appaloosa", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Ruby",
+    "meaning": "Red precious stone",
+    "color": ["Chestnut", "Sorrel", "Palomino"],
+    "horse_character": ["Vivacious", "Affectionate", "Confident"],
+    "name_origin": "English",
+    "breed": ["Arabian", "Quarter Horse", "Paint Horse"],
+    "sex": "Female"
+  },
+  {
+    "name": "Atlas",
+    "meaning": "Bearer of the world; strong and enduring",
+    "color": ["Brown", "Bay", "Gray"],
+    "horse_character": ["Strong", "Resilient", "Calm"],
+    "name_origin": "Greek",
+    "breed": ["Draft Horse", "Warmblood", "Friesian"],
+    "sex": "Male"
+  },
+  {
+    "name": "Luna",
+    "meaning": "Moon",
+    "color": ["White", "Gray", "Cream"],
+    "horse_character": ["Serene", "Intuitive", "Graceful"],
+    "name_origin": "Latin",
+    "breed": ["Arabian", "Morgan", "Paso Fino"],
+    "sex": "Female"
+  },
+  {
+    "name": "Max",
+    "meaning": "Greatest",
+    "color": ["Bay", "Brown", "Chestnut"],
+    "horse_character": ["Friendly", "Brave", "Adventurous"],
+    "name_origin": "Germanic",
+    "breed": ["Quarter Horse", "Thoroughbred", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Willow",
+    "meaning": "Flexible, graceful tree",
+    "color": ["Light Bay", "Chestnut", "Roan"],
+    "horse_character": ["Gentle", "Sensitive", "Soft-spoken"],
+    "name_origin": "English",
+    "breed": ["Welsh Pony", "Arabian", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Ranger",
+    "meaning": "One who patrols or guards",
+    "color": ["Black", "Bay", "Gray"],
+    "horse_character": ["Alert", "Protective", "Independent"],
+    "name_origin": "English",
+    "breed": ["Mustang", "Quarter Horse", "Draft Horse"],
+    "sex": "Male"
+  },
+  {
+    "name": "Daisy",
+    "meaning": "Day's eye; symbol of innocence and purity",
+    "color": ["Chestnut", "Palomino", "White Markings"],
+    "horse_character": ["Cheerful", "Innocent", "Loyal"],
+    "name_origin": "English",
+    "breed": ["Shetland Pony", "Appaloosa", "Quarter Horse"],
+    "sex": "Female"
+  },
+  {
+    "name": "Charlie",
+    "meaning": "Free man",
+    "color": ["Bay", "Chestnut", "Roan"],
+    "horse_character": ["Cheerful", "Outgoing", "Friendly"],
+    "name_origin": "English",
+    "breed": ["Quarter Horse", "Pony", "Thoroughbred"],
+    "sex": "Male"
+  },
+  {
+    "name": "Grace",
+    "meaning": "Elegance, kindness, favor",
+    "color": ["Chestnut", "Palomino", "Gray"],
+    "horse_character": ["Elegant", "Composed", "Kind-hearted"],
+    "name_origin": "English",
+    "breed": ["Arabian", "Warmblood", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Frost",
+    "meaning": "Ice; cold beauty",
+    "color": ["Gray", "White", "Roan"],
+    "horse_character": ["Cool", "Thoughtful", "Calm"],
+    "name_origin": "English",
+    "breed": ["Friesian", "Draft Horse", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Molly",
+    "meaning": "Beloved",
+    "color": ["Chestnut", "Bay", "Palomino"],
+    "horse_character": ["Sweet", "Patient", "Affectionate"],
+    "name_origin": "English",
+    "breed": ["Shetland Pony", "Quarter Horse", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Jake",
+    "meaning": "Supplanter",
+    "color": ["Bay", "Brown", "Dark Bay"],
+    "horse_character": ["Witty", "Brave", "Adaptable"],
+    "name_origin": "Hebrew",
+    "breed": ["Thoroughbred", "Quarter Horse", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Sunny",
+    "meaning": "Bright and cheerful",
+    "color": ["Chestnut", "Palomino", "Gold"],
+    "horse_character": ["Optimistic", "Radiant", "Joyful"],
+    "name_origin": "English",
+    "breed": ["Appaloosa", "Quarter Horse", "Morgan"],
+    "sex": "Female"
+  },
+  {
+    "name": "Leo",
+    "meaning": "Lion",
+    "color": ["Bay", "Chestnut", "Black"],
+    "horse_character": ["Courageous", "Regal", "Confident"],
+    "name_origin": "Latin",
+    "breed": ["Thoroughbred", "Arabian", "Warmblood"],
+    "sex": "Male"
+  },
+  {
+    "name": "Nora",
+    "meaning": "Honor",
+    "color": ["Gray", "Chestnut", "Bay"],
+    "horse_character": ["Dignified", "Intelligent", "Gracious"],
+    "name_origin": "Irish",
+    "breed": ["Arabian", "Morgan", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Bear",
+    "meaning": "Strong, powerful animal",
+    "color": ["Black", "Brown", "Bay"],
+    "horse_character": ["Steady", "Powerful", "Loyal"],
+    "name_origin": "English",
+    "breed": ["Draft Horse", "Friesian", "Percheron"],
+    "sex": "Male"
+  },
+  {
+    "name": "Piper",
+    "meaning": "One who plays the pipe or flute",
+    "color": ["Gray", "Chestnut", "Palomino"],
+    "horse_character": ["Musical", "Playful", "Expressive"],
+    "name_origin": "English",
+    "breed": ["Pony", "Appaloosa", "Quarter Horse"],
+    "sex": "Female"
+  },
+  {
+    "name": "Owen",
+    "meaning": "Young warrior",
+    "color": ["Bay", "Brown", "Roan"],
+    "horse_character": ["Determined", "Brave", "Quietly Confident"],
+    "name_origin": "Welsh",
+    "breed": ["Thoroughbred", "Welsh Pony", "Arabian"],
+    "sex": "Male"
+  },
+  {
+    "name": "Zoe",
+    "meaning": "Life",
+    "color": ["Chestnut", "Palomino", "Cream"],
+    "horse_character": ["Vital", "Lively", "Spiritual"],
+    "name_origin": "Greek",
+    "breed": ["Arabian", "Morgan", "Paso Fino"],
+    "sex": "Female"
+  },
+  {
+    "name": "Hunter",
+    "meaning": "One who hunts",
+    "color": ["Black", "Bay", "Gray"],
+    "horse_character": ["Agile", "Sharp-eyed", "Focused"],
+    "name_origin": "English",
+    "breed": ["Thoroughbred", "Quarter Horse", "Appaloosa"],
+    "sex": "Male"
+  },
+  {
+    "name": "Tessa",
+    "meaning": "Harvester",
+    "color": ["Chestnut", "Bay", "Roan"],
+    "horse_character": ["Hardworking", "Grounded", "Trustworthy"],
+    "name_origin": "Greek",
+    "breed": ["Quarter Horse", "Pony", "Draft Horse"],
+    "sex": "Female"
+  },
+  {
+    "name": "Jasper",
+    "meaning": "Treasure",
+    "color": ["Brown", "Chestnut", "Dark Bay"],
+    "horse_character": ["Stable", "Wise", "Calming"],
+    "name_origin": "Persian",
+    "breed": ["Arabian", "Appaloosa", "Morgan"],
+    "sex": "Male"
+  },
+  {
+    "name": "Skye",
+    "meaning": "Cloud or sky",
+    "color": ["Gray", "White", "Palomino"],
+    "horse_character": ["Dreamy", "Open-minded", "Free-spirited"],
+    "name_origin": "Scottish",
+    "breed": ["Thoroughbred", "Arabian", "Pony"],
+    "sex": "Female"
+  },
+  {
+    "name": "Boomer",
+    "meaning": "One who booms (loud sound)",
+    "color": ["Bay", "Chestnut", "Roan"],
+    "horse_character": ["Energetic", "Funny", "Loyal"],
+    "name_origin": "English",
+    "breed": ["Quarter Horse", "Pony", "Appaloosa"],
+    "sex": "Male"
+  },
+  {
+    "name": "Rose",
+    "meaning": "Flower of love",
+    "color": ["Chestnut", "Pinkish Cream", "Palomino"],
+    "horse_character": ["Delicate", "Lovely", "Romantic"],
+    "name_origin": "English",
+    "breed": ["Arabian", "Morgan", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Cody",
+    "meaning": "Friend",
+    "color": ["Bay", "Brown", "Black"],
+    "horse_character": ["Charming", "Supportive", "True-hearted"],
+    "name_origin": "Irish",
+    "breed": ["Quarter Horse", "Thoroughbred", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Maggie",
+    "meaning": "Pearl",
+    "color": ["Chestnut", "Gray", "Bay"],
+    "horse_character": ["Precious", "Sweet", "Graceful"],
+    "name_origin": "English",
+    "breed": ["Appaloosa", "Shetland Pony", "Quarter Horse"],
+    "sex": "Female"
+  },
+  {
+    "name": "Ace",
+    "meaning": "Best",
+    "color": ["Black", "Bay", "Roan"],
+    "horse_character": ["Top-performing", "Confident", "Ambitious"],
+    "name_origin": "English",
+    "breed": ["Thoroughbred", "Quarter Horse", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Lily",
+    "meaning": "Pure flower",
+    "color": ["White", "Cream", "Gray"],
+    "horse_character": ["Pure", "Gentle", "Peaceful"],
+    "name_origin": "English",
+    "breed": ["Arabian", "Friesian", "Morgan"],
+    "sex": "Female"
+  },
+  {
+    "name": "Finn",
+    "meaning": "Fair",
+    "color": ["Chestnut", "Bay", "Gray"],
+    "horse_character": ["Quick", "Smart", "Adventurous"],
+    "name_origin": "Irish",
+    "breed": ["Thoroughbred", "Pony", "Appaloosa"],
+    "sex": "Male"
+  },
+  {
+    "name": "Pepper",
+    "meaning": "Spicy, lively",
+    "color": ["Chestnut", "Roan", "Bay"],
+    "horse_character": ["Fiery", "Fun-loving", "Full of spirit"],
+    "name_origin": "English",
+    "breed": ["Quarter Horse", "Pony", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Buddy",
+    "meaning": "Close friend",
+    "color": ["Bay", "Chestnut", "Palomino"],
+    "horse_character": ["Loyal", "Friendly", "Companionable"],
+    "name_origin": "English",
+    "breed": ["Quarter Horse", "Pony", "Morgan"],
+    "sex": "Male"
+  },
+  {
+    "name": "Misty",
+    "meaning": "Hazy, dreamlike",
+    "color": ["Gray", "White", "Silver"],
+    "horse_character": ["Enigmatic", "Soft", "Dreamy"],
+    "name_origin": "English",
+    "breed": ["Arabian", "Thoroughbred", "Friesian"],
+    "sex": "Female"
+  },
+  {
+    "name": "Rusty",
+    "meaning": "Reddish-brown color",
+    "color": ["Chestnut", "Sorrel", "Red Roan"],
+    "horse_character": ["Warm", "Reliable", "Old-fashioned charm"],
+    "name_origin": "English",
+    "breed": ["Quarter Horse", "Appaloosa", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Duke",
+    "meaning": "Nobleman",
+    "color": ["Black", "Bay", "Dark Brown"],
+    "horse_character": ["Regal", "Stately", "Authoritative"],
+    "name_origin": "English",
+    "breed": ["Thoroughbred", "Draft Horse", "Friesian"],
+    "sex": "Male"
+  },
+  {
+    "name": "Princess",
+    "meaning": "Royal female",
+    "color": ["White", "Cream", "Palomino"],
+    "horse_character": ["Elegant", "Graceful", "Royalty-like"],
+    "name_origin": "English",
+    "breed": ["Arabian", "Morgan", "Paso Fino"],
+    "sex": "Female"
+  },
+  {
+    "name": "Jack",
+    "meaning": "God is gracious",
+    "color": ["Bay", "Chestnut", "Brown"],
+    "horse_character": ["Steady", "Hardworking", "Dependable"],
+    "name_origin": "Hebrew",
+    "breed": ["Thoroughbred", "Quarter Horse", "Draft Horse"],
+    "sex": "Male"
+  },
+  {
+    "name": "Breezy",
+    "meaning": "Fresh and light",
+    "color": ["Gray", "Palomino", "Roan"],
+    "horse_character": ["Lighthearted", "Fast-moving", "Carefree"],
+    "name_origin": "English",
+    "breed": ["Pony", "Appaloosa", "Morgan"],
+    "sex": "Female"
+  },
+  {
+    "name": "Zeke",
+    "meaning": "God saves",
+    "color": ["Bay", "Chestnut", "Black"],
+    "horse_character": ["Faithful", "Strong", "Devoted"],
+    "name_origin": "Hebrew",
+    "breed": ["Thoroughbred", "Quarter Horse", "Arabian"],
+    "sex": "Male"
+  },
+  {
+    "name": "Sage",
+    "meaning": "Wisdom",
+    "color": ["Gray", "Chestnut", "Bay"],
+    "horse_character": ["Calm", "Insightful", "Thoughtful"],
+    "name_origin": "English",
+    "breed": ["Arabian", "Morgan", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Flash",
+    "meaning": "Sudden brightness",
+    "color": ["Black", "Chestnut", "Roan"],
+    "horse_character": ["Swift", "Daring", "Quick to react"],
+    "name_origin": "English",
+    "breed": ["Thoroughbred", "Quarter Horse", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Ginger",
+    "meaning": "Red-haired person",
+    "color": ["Chestnut", "Sorrel", "Red Roan"],
+    "horse_character": ["Fiery", "Spunky", "Vibrant"],
+    "name_origin": "English",
+    "breed": ["Appaloosa", "Pony", "Quarter Horse"],
+    "sex": "Female"
+  },
+  {
+    "name": "King",
+    "meaning": "Monarch",
+    "color": ["Black", "Bay", "Gray"],
+    "horse_character": ["Commanding", "Powerful", "Respected"],
+    "name_origin": "English",
+    "breed": ["Draft Horse", "Friesian", "Thoroughbred"],
+    "sex": "Male"
+  },
+  {
+    "name": "Coco",
+    "meaning": "Dark brown or chocolate",
+    "color": ["Chestnut", "Brown", "Dark Bay"],
+    "horse_character": ["Rich", "Warm", "Comforting"],
+    "name_origin": "Spanish/Portuguese",
+    "breed": ["Arabian", "Morgan", "Quarter Horse"],
+    "sex": "Female"
+  },
+  {
+    "name": "Sunny",
+    "meaning": "Bright and cheerful",
+    "color": ["Chestnut", "Palomino", "Gold"],
+    "horse_character": ["Optimistic", "Radiant", "Joyful"],
+    "name_origin": "English",
+    "breed": ["Appaloosa", "Quarter Horse", "Morgan"],
+    "sex": "Female"
+  },
+  {
+    "name": "Rex",
+    "meaning": "King",
+    "color": ["Black", "Bay", "Gray"],
+    "horse_character": ["Dominant", "Confident", "Leadership"],
+    "name_origin": "Latin",
+    "breed": ["Thoroughbred", "Draft Horse", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Penny",
+    "meaning": "Small coin; valuable",
+    "color": ["Chestnut", "Bay", "Roan"],
+    "horse_character": ["Tiny but mighty", "Sweet", "Precious"],
+    "name_origin": "English",
+    "breed": ["Shetland Pony", "Appaloosa", "Pony"],
+    "sex": "Female"
+  },
+  {
+    "name": "Toby",
+    "meaning": "Gift of God",
+    "color": ["Bay", "Brown", "Chestnut"],
+    "horse_character": ["Friendly", "Happy", "Trustworthy"],
+    "name_origin": "English",
+    "breed": ["Quarter Horse", "Pony", "Appaloosa"],
+    "sex": "Male"
+  },
+  {
+    "name": "Annie",
+    "meaning": "Grace",
+    "color": ["Chestnut", "Palomino", "Gray"],
+    "horse_character": ["Kind", "Patient", "Gentle"],
+    "name_origin": "English",
+    "breed": ["Morgan", "Arabian", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Rocky",
+    "meaning": "Sturdy, solid",
+    "color": ["Bay", "Brown", "Black"],
+    "horse_character": ["Steady", "Strong", "Reliable"],
+    "name_origin": "English",
+    "breed": ["Draft Horse", "Quarter Horse", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Mocha",
+    "meaning": "Coffee with cream",
+    "color": ["Brown", "Chestnut", "Golden Bay"],
+    "horse_character": ["Rich", "Warm", "Cozy"],
+    "name_origin": "Spanish",
+    "breed": ["Arabian", "Morgan", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Felix",
+    "meaning": "Fortunate",
+    "color": ["Gray", "Black", "Bay"],
+    "horse_character": ["Lucky", "Clever", "Smooth-moving"],
+    "name_origin": "Latin",
+    "breed": ["Thoroughbred", "Arabian", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Dolly",
+    "meaning": "Little doll",
+    "color": ["Chestnut", "Palomino", "Cream"],
+    "horse_character": ["Cute", "Playful", "Charming"],
+    "name_origin": "English",
+    "breed": ["Shetland Pony", "Appaloosa", "Quarter Horse"],
+    "sex": "Female"
+  },
+  {
+    "name": "Spike",
+    "meaning": "Sharp point",
+    "color": ["Black", "Bay", "Chestnut"],
+    "horse_character": ["Bold", "Sharp", "Fearless"],
+    "name_origin": "English",
+    "breed": ["Thoroughbred", "Pony", "Quarter Horse"],
+    "sex": "Male"
+  },
+  {
+    "name": "Honey",
+    "meaning": "Sweet substance",
+    "color": ["Chestnut", "Palomino", "Golden"],
+    "horse_character": ["Sweet", "Gentle", "Comforting"],
+    "name_origin": "English",
+    "breed": ["Arabian", "Morgan", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Bear",
+    "meaning": "Strong animal",
+    "color": ["Black", "Brown", "Bay"],
+    "horse_character": ["Powerful", "Loyal", "Steady"],
+    "name_origin": "English",
+    "breed": ["Draft Horse", "Friesian", "Percheron"],
+    "sex": "Male"
+  },
+  {
+    "name": "Lulu",
+    "meaning": "Pretty",
+    "color": ["Chestnut", "Gray", "Roan"],
+    "horse_character": ["Adorable", "Playful", "Sparkling"],
+    "name_origin": "French/English",
+    "breed": ["Pony", "Appaloosa", "Quarter Horse"],
+    "sex": "Female"
+  },
+  {
+    "name": "Buster",
+    "meaning": "Brave fighter",
+    "color": ["Bay", "Chestnut", "Black"],
+    "horse_character": ["Bold", "Confident", "Daring"],
+    "name_origin": "English",
+    "breed": ["Thoroughbred", "Quarter Horse", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Sunny",
+    "meaning": "Sunshine",
+    "color": ["Palomino", "Chestnut", "Gold"],
+    "horse_character": ["Cheerful", "Bright", "Upbeat"],
+    "name_origin": "English",
+    "breed": ["Appaloosa", "Morgan", "Quarter Horse"],
+    "sex": "Female"
+  },
+  {
+    "name": "Charlie",
+    "meaning": "Free man",
+    "color": ["Bay", "Chestnut", "Roan"],
+    "horse_character": ["Cheerful", "Outgoing", "Friendly"],
+    "name_origin": "English",
+    "breed": ["Quarter Horse", "Pony", "Thoroughbred"],
+    "sex": "Male"
+  },
+  {
+    "name": "Molly",
+    "meaning": "Beloved",
+    "color": ["Chestnut", "Bay", "Palomino"],
+    "horse_character": ["Sweet", "Patient", "Affectionate"],
+    "name_origin": "English",
+    "breed": ["Shetland Pony", "Quarter Horse", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Jasper",
+    "meaning": "Treasure",
+    "color": ["Brown", "Chestnut", "Dark Bay"],
+    "horse_character": ["Stable", "Wise", "Calming"],
+    "name_origin": "Persian",
+    "breed": ["Arabian", "Appaloosa", "Morgan"],
+    "sex": "Male"
+  },
+  {
+    "name": "Skye",
+    "meaning": "Cloud or sky",
+    "color": ["Gray", "White", "Palomino"],
+    "horse_character": ["Dreamy", "Open-minded", "Free-spirited"],
+    "name_origin": "Scottish",
+    "breed": ["Thoroughbred", "Arabian", "Pony"],
+    "sex": "Female"
+  },
+  {
+    "name": "Boomer",
+    "meaning": "One who booms",
+    "color": ["Bay", "Chestnut", "Roan"],
+    "horse_character": ["Energetic", "Funny", "Loyal"],
+    "name_origin": "English",
+    "breed": ["Quarter Horse", "Pony", "Appaloosa"],
+    "sex": "Male"
+  },
+  {
+    "name": "Rose",
+    "meaning": "Flower of love",
+    "color": ["Chestnut", "Pinkish Cream", "Palomino"],
+    "horse_character": ["Delicate", "Lovely", "Romantic"],
+    "name_origin": "English",
+    "breed": ["Arabian", "Morgan", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Cody",
+    "meaning": "Friend",
+    "color": ["Bay", "Brown", "Black"],
+    "horse_character": ["Charming", "Supportive", "True-hearted"],
+    "name_origin": "Irish",
+    "breed": ["Quarter Horse", "Thoroughbred", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Maggie",
+    "meaning": "Pearl",
+    "color": ["Chestnut", "Gray", "Bay"],
+    "horse_character": ["Precious", "Sweet", "Graceful"],
+    "name_origin": "English",
+    "breed": ["Appaloosa", "Shetland Pony", "Quarter Horse"],
+    "sex": "Female"
+  },
+  {
+    "name": "Ace",
+    "meaning": "Best",
+    "color": ["Black", "Bay", "Roan"],
+    "horse_character": ["Top-performing", "Confident", "Ambitious"],
+    "name_origin": "English",
+    "breed": ["Thoroughbred", "Quarter Horse", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Lily",
+    "meaning": "Pure flower",
+    "color": ["White", "Cream", "Gray"],
+    "horse_character": ["Pure", "Gentle", "Peaceful"],
+    "name_origin": "English",
+    "breed": ["Arabian", "Friesian", "Morgan"],
+    "sex": "Female"
+  },
+  {
+    "name": "Finn",
+    "meaning": "Fair",
+    "color": ["Chestnut", "Bay", "Gray"],
+    "horse_character": ["Quick", "Smart", "Adventurous"],
+    "name_origin": "Irish",
+    "breed": ["Thoroughbred", "Pony", "Appaloosa"],
+    "sex": "Male"
+  },
+  {
+    "name": "Pepper",
+    "meaning": "Spicy, lively",
+    "color": ["Chestnut", "Roan", "Bay"],
+    "horse_character": ["Fiery", "Fun-loving", "Full of spirit"],
+    "name_origin": "English",
+    "breed": ["Quarter Horse", "Pony", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Buddy",
+    "meaning": "Close friend",
+    "color": ["Bay", "Chestnut", "Palomino"],
+    "horse_character": ["Loyal", "Friendly", "Companionable"],
+    "name_origin": "English",
+    "breed": ["Quarter Horse", "Pony", "Morgan"],
+    "sex": "Male"
+  },
+  {
+    "name": "Misty",
+    "meaning": "Hazy, dreamlike",
+    "color": ["Gray", "White", "Silver"],
+    "horse_character": ["Enigmatic", "Soft", "Dreamy"],
+    "name_origin": "English",
+    "breed": ["Arabian", "Thoroughbred", "Friesian"],
+    "sex": "Female"
+  },
+  {
+    "name": "Rusty",
+    "meaning": "Reddish-brown color",
+    "color": ["Chestnut", "Sorrel", "Red Roan"],
+    "horse_character": ["Warm", "Reliable", "Old-fashioned charm"],
+    "name_origin": "English",
+    "breed": ["Quarter Horse", "Appaloosa", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Duke",
+    "meaning": "Nobleman",
+    "color": ["Black", "Bay", "Dark Brown"],
+    "horse_character": ["Regal", "Stately", "Authoritative"],
+    "name_origin": "English",
+    "breed": ["Thoroughbred", "Draft Horse", "Friesian"],
+    "sex": "Male"
+  },
+  {
+    "name": "Princess",
+    "meaning": "Royal female",
+    "color": ["White", "Cream", "Palomino"],
+    "horse_character": ["Elegant", "Graceful", "Royalty-like"],
+    "name_origin": "English",
+    "breed": ["Arabian", "Morgan", "Paso Fino"],
+    "sex": "Female"
+  },
+  {
+    "name": "Jack",
+    "meaning": "God is gracious",
+    "color": ["Bay", "Chestnut", "Brown"],
+    "horse_character": ["Steady", "Hardworking", "Dependable"],
+    "name_origin": "Hebrew",
+    "breed": ["Thoroughbred", "Quarter Horse", "Draft Horse"],
+    "sex": "Male"
+  },
+  {
+    "name": "Breezy",
+    "meaning": "Fresh and light",
+    "color": ["Gray", "Palomino", "Roan"],
+    "horse_character": ["Lighthearted", "Fast-moving", "Carefree"],
+    "name_origin": "English",
+    "breed": ["Pony", "Appaloosa", "Morgan"],
+    "sex": "Female"
+  },
+  {
+    "name": "Zeke",
+    "meaning": "God saves",
+    "color": ["Bay", "Chestnut", "Black"],
+    "horse_character": ["Faithful", "Strong", "Devoted"],
+    "name_origin": "Hebrew",
+    "breed": ["Thoroughbred", "Quarter Horse", "Arabian"],
+    "sex": "Male"
+  },
+  {
+    "name": "Sage",
+    "meaning": "Wisdom",
+    "color": ["Gray", "Chestnut", "Bay"],
+    "horse_character": ["Calm", "Insightful", "Thoughtful"],
+    "name_origin": "English",
+    "breed": ["Arabian", "Morgan", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Flash",
+    "meaning": "Sudden brightness",
+    "color": ["Black", "Chestnut", "Roan"],
+    "horse_character": ["Swift", "Daring", "Quick to react"],
+    "name_origin": "English",
+    "breed": ["Thoroughbred", "Quarter Horse", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Ginger",
+    "meaning": "Red-haired person",
+    "color": ["Chestnut", "Sorrel", "Red Roan"],
+    "horse_character": ["Fiery", "Spunky", "Vibrant"],
+    "name_origin": "English",
+    "breed": ["Appaloosa", "Pony", "Quarter Horse"],
+    "sex": "Female"
+  },
+  {
+    "name": "King",
+    "meaning": "Monarch",
+    "color": ["Black", "Bay", "Gray"],
+    "horse_character": ["Commanding", "Powerful", "Respected"],
+    "name_origin": "English",
+    "breed": ["Draft Horse", "Friesian", "Thoroughbred"],
+    "sex": "Male"
+  },
+  {
+    "name": "Coco",
+    "meaning": "Dark brown or chocolate",
+    "color": ["Chestnut", "Brown", "Dark Bay"],
+    "horse_character": ["Rich", "Warm", "Comforting"],
+    "name_origin": "Spanish/Portuguese",
+    "breed": ["Arabian", "Morgan", "Quarter Horse"],
+    "sex": "Female"
+  },
+  {
+    "name": "Sunny",
+    "meaning": "Bright and cheerful",
+    "color": ["Chestnut", "Palomino", "Gold"],
+    "horse_character": ["Optimistic", "Radiant", "Joyful"],
+    "name_origin": "English",
+    "breed": ["Appaloosa", "Quarter Horse", "Morgan"],
+    "sex": "Female"
+  },
+  {
+    "name": "Rex",
+    "meaning": "King",
+    "color": ["Black", "Bay", "Gray"],
+    "horse_character": ["Dominant", "Confident", "Leadership"],
+    "name_origin": "Latin",
+    "breed": ["Thoroughbred", "Draft Horse", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Penny",
+    "meaning": "Small coin; valuable",
+    "color": ["Chestnut", "Bay", "Roan"],
+    "horse_character": ["Tiny but mighty", "Sweet", "Precious"],
+    "name_origin": "English",
+    "breed": ["Shetland Pony", "Appaloosa", "Pony"],
+    "sex": "Female"
+  },
+  {
+    "name": "Toby",
+    "meaning": "Gift of God",
+    "color": ["Bay", "Brown", "Chestnut"],
+    "horse_character": ["Friendly", "Happy", "Trustworthy"],
+    "name_origin": "English",
+    "breed": ["Quarter Horse", "Pony", "Appaloosa"],
+    "sex": "Male"
+  },
+  {
+    "name": "Annie",
+    "meaning": "Grace",
+    "color": ["Chestnut", "Palomino", "Gray"],
+    "horse_character": ["Kind", "Patient", "Gentle"],
+    "name_origin": "English",
+    "breed": ["Morgan", "Arabian", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Rocky",
+    "meaning": "Sturdy, solid",
+    "color": ["Bay", "Brown", "Black"],
+    "horse_character": ["Steady", "Strong", "Reliable"],
+    "name_origin": "English",
+    "breed": ["Draft Horse", "Quarter Horse", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Mocha",
+    "meaning": "Coffee with cream",
+    "color": ["Brown", "Chestnut", "Golden Bay"],
+    "horse_character": ["Rich", "Warm", "Cozy"],
+    "name_origin": "Spanish",
+    "breed": ["Arabian", "Morgan", "Appaloosa"],
+    "sex": "Female"
+  },
+  {
+    "name": "Felix",
+    "meaning": "Fortunate",
+    "color": ["Gray", "Black", "Bay"],
+    "horse_character": ["Lucky", "Clever", "Smooth-moving"],
+    "name_origin": "Latin",
+    "breed": ["Thoroughbred", "Arabian", "Pony"],
+    "sex": "Male"
+  },
+  {
+    "name": "Dolly",
+    "meaning": "Little doll",
+    "color": ["Chestnut", "Palomino", "Cream"],
+    "horse_character": ["Cute", "Playful", "Charming"],
+    "name_origin": "English",
+    "breed": ["Shetland Pony", "Appaloosa", "Quarter Horse"],
+    "sex": "Female"
+  },
+  {
+    "name": "Spike",
+    "meaning": "Sharp point",
+    "color": ["Black", "Bay", "Chestnut"],
+    "horse_character": ["Bold", "Sharp", "Fearless"],
+    "name_origin": "English",
+    "breed": ["Thoroughbred", "Pony", "Quarter Horse"],
+    "sex": "Male"
+  },
+  {
+    "name": "Honey",
+    "meaning": "Sweet substance",
+    "color": ["Chestnut", "Palomino", "Golden"],
+    "horse_character": ["Sweet", "Gentle", "Comforting"],
+    "name_origin": "English",
+    "breed": ["Arabian", "Morgan", "Appaloosa"],
+    "sex": "Female"
+  }
+]
