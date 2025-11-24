@@ -196,12 +196,12 @@
 
           <!-- Browse & Generate -->
           <div class="border-t border-gray-200 pt-6 mt-6 flex flex-col md:flex-row md:items-center md:justify-between gap-6">
-            <div class="flex flex-col gap-2">
+            <div class="flex flex-col gap-2 hidden">
               <h4 class="text-text-heading text-base font-bold">Browse by Origin</h4>
               <div class="flex flex-wrap gap-x-4 gap-y-2">
-                <a href="/all-english-names" class="text-sm text-primary hover:underline">All English Names</a>
+                <!-- <a href="/all-english-names" class="text-sm text-primary hover:underline">All English Names</a>
                 <a href="/all-arabic-names" class="text-sm text-primary hover:underline">All Arabic Names</a>
-                <a href="/all-spanish-names" class="text-sm text-primary hover:underline">All Spanish Names</a>
+                <a href="/all-spanish-names" class="text-sm text-primary hover:underline">All Spanish Names</a> -->
               </div>
             </div>
 

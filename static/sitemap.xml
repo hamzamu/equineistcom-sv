@@ -2,8 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://equineist.com/profile-generator</loc>
+      <lastmod>2025-11-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://equineist.com/9-tv-series-about-horses</loc>
-      <lastmod>2025-10-31</lastmod>
+      <lastmod>2025-11-24</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -149,6 +156,20 @@
     </url>
   
     <url>
+      <loc>https://equineist.com/blog/199-</loc>
+      <lastmod>2025-11-01</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equineist.com/blog/11-25-tools-forus</loc>
+      <lastmod>2025-11-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://equineist.com/blog/10-ss</loc>
       <lastmod>2025-10-22</lastmod>
       <changefreq>weekly</changefreq>
@@ -171,6 +192,13 @@
   
     <url>
       <loc>https://equineist.com/blog/10-guide-right-farm</loc>
+      <lastmod>2025-10-31</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://equineist.com/blog/10-equipments</loc>
       <lastmod>2025-10-31</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -206,42 +234,42 @@
   
     <url>
       <loc>https://equineist.com/p/videos</loc>
-      <lastmod>2025-10-31</lastmod>
+      <lastmod>2025-11-24</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://equineist.com/p/the_story</loc>
-      <lastmod>2025-10-31</lastmod>
+      <lastmod>2025-11-24</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://equineist.com/p/the_book</loc>
-      <lastmod>2025-10-31</lastmod>
+      <lastmod>2025-11-24</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://equineist.com/p/privacy_policy</loc>
-      <lastmod>2025-10-31</lastmod>
+      <lastmod>2025-11-24</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://equineist.com/p/contact</loc>
-      <lastmod>2025-10-31</lastmod>
+      <lastmod>2025-11-24</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
       <loc>https://equineist.com/p/about</loc>
-      <lastmod>2025-10-31</lastmod>
+      <lastmod>2025-11-24</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
