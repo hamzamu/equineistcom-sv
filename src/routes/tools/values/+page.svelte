@@ -1,13 +1,16 @@
 <div class="bg-white p-6">
     <div class="max-w-7xl mx-auto">
         <!-- Header -->
+        <div class="p-3x py-3">
+            <a href="/tools/" class="btn btn-sm btn-primary">Back</a>
+        </div>
         <div class="flex flex-wrap justify-betweenx gap-4 items-center mb-6">
             <div class="flex flex-col gap-1">
                 <h1 class="text-gray-900 text-3xl sm:text-4xl font-black leading-tight tracking-[-0.033em]">Horse Vitals & Normals</h1>
                 <p class="text-gray-500 text-base font-normal leading-normal">A quick reference guide for adult horse baseline values.</p>
             </div>
-    <div class="flex flex-wrap flex-1 justify-end gap-4">
-                    <button class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-gray-100 text-gray-900 text-sm font-bold leading-normal tracking-[0.015em] gap-2 shrink-0">
+            <div class="flex flex-wrap flex-1 justify-end gap-4">
+            <button class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-gray-100 text-gray-900 text-sm font-bold leading-normal tracking-[0.015em] gap-2 shrink-0">
                 <span class="material-symbols-outlined">print</span>
                 <span class="truncate">Print</span>
             </button>

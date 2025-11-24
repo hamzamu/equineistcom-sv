@@ -5,12 +5,12 @@
     import domtoimage from 'dom-to-image';
 
 
-    let horseName = "Comet";
+    let horseName = "Kuzey";
     let age = 8;
     let sex = "Stallion";
     let breed = "Arabian";
     let weight = 950;
-    let ownerName = "Sarah Chen";
+    let ownerName = "Hamza M";
     let selectedImage = null;
     let previewImage = "/holders/kuzey_m.jpg";
     // Available sexes and breeds
@@ -148,7 +148,13 @@
     </header> -->
     <!-- Main Content -->
     <main class="py-8 px-4 sm:px-6 lg:px-8">
+
+
+
         <div class="max-w-7xl mx-auto">
+        <div class="p-3x py-3">
+            <a href="/tools/" class="btn btn-sm btn-primary">Back</a>
+        </div>
             <!-- Page Title -->
             <h1 class="text-3xl font-bold text-gray-900 mb-6">Horse Card Generator</h1>
             <!-- Form and Preview Grid -->
@@ -257,7 +263,7 @@
                 </div>
                 <!-- Right Column: Preview Card -->
                 <div class=" p-6">
-                    <div class="bg-whitex rounded-xl shadow-lg p-6" id="horse_card">
+                    <div class="bg-white rounded-xl shadow-lg p-6" id="horse_card">
                     <div class="relative">
                         <img src={previewImage} alt={horseName} class="w-full h-auto  object-cover rounded-lg" />
                         <div class="absolute top-4 right-4 bg-white bg-opacity-90 px-3 py-1 rounded-md text-sm text-gray-600">
@@ -265,7 +271,15 @@
                         </div>
                     </div>
                     <div class="mt-4">
-                        <h2 class="text-2xl font-bold text-gray-900">{horseName}</h2>
+                        
+                        <div class="flex flex-row  justify-between ">
+                          <h2 class="text-2xl font-bold text-gray-900">{horseName}</h2>
+                          <div><p class="text-sm font-medium bg-gray-300 p-2 rounded-3xl ">{breed}</p></div>
+                          <div class="">
+                            <p class="text-xs text-green-600 font-medium">Owner</p>
+                            <p class="text-sm font-medium">{ownerName}</p>
+                          </div>
+                        </div>
                         <div class="mt-4 grid grid-cols-3 gap-4">
                             <div>
                                 <p class="text-xs text-green-600 font-medium">Age</p>
@@ -280,14 +294,13 @@
                                 <p class="text-sm font-medium">{weight} lbs</p>
                             </div>
                         </div>
-                        <div class="mt-4">
+                        <!-- <div class="mt-4">
                             <p class="text-xs text-green-600 font-medium">Breed</p>
-                            <p class="text-sm font-medium">{breed}</p>
-                        </div>
-                        <div class="mt-4">
-                            <p class="text-xs text-green-600 font-medium">Owner</p>
-                            <p class="text-sm font-medium">{ownerName}</p>
-                        </div>
+                            
+                        </div> -->
+                        <!-- <div class="mt-4">
+
+                        </div> -->
                     </div>
                     </div>
                     <!--  -->

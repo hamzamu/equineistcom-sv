@@ -5,10 +5,10 @@
     import Papa from 'papaparse';
     import { onMount } from 'svelte';
     // Variable!
-    let horseName = "Starlight";
+    let horseName = "Kuzey";
     let age = 8;
-    let breed = "Thoroughbred";
-    let sex = "Mare";
+    let breed = "Arabian";
+    let sex = "Stallion";
     let location = "Ocala, FL";
     let owner = "Eleanor Vance";
     let youtubeLink = "";
@@ -204,22 +204,28 @@
         <div class="layout-container flex h-full grow flex-col">
             <div class="flex flex-1 justify-center py-5">
                 <div class="layout-content-container flex flex-col w-full max-w-6xl flex-1 px-4 md:px-8">
+                    <div class="p-3x py-3">
+                        <a href="/tools/" class="btn btn-sm btn-primary">Back</a>
+                    </div>
                     <!-- Header Section -->
                     <header class="flex flex-wrap justify-between items-center gap-4 py-4 border-b border-gray-200">
                         <p class="text-gray-900 text-3xl font-black leading-tight tracking-[-0.033em]">Horse Record &amp; Report Generator</p>
                         <div class="flex flex-1 gap-3 flex-wrap justify-start md:justify-end">
+
+                            {#if events}
                             <button on:click={download_horse_sheet} class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center gap-2 overflow-hidden rounded-lg h-10 px-4 bg-blue-600 text-white text-sm font-bold leading-normal tracking-[0.015em]">
                                 <span class="material-symbols-outlined" style="font-size: 20px;">download</span>
                                 <span class="truncate">Download Report</span>
                             </button>
-                            <button on:click={saveChanges} class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-gray-200 text-gray-900 text-sm font-bold leading-normal tracking-[0.015em]">
+                            {/if}
+                            <!-- <button on:click={saveChanges} class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-gray-200 text-gray-900 text-sm font-bold leading-normal tracking-[0.015em]">
                                 <span class="material-symbols-outlined" style="font-size: 20px;">save</span>
                                 <span class="truncate">Save Changes</span>
-                            </button>
-                            <button on:click={shareHorse} class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-gray-200 text-gray-900 text-sm font-bold leading-normal tracking-[0.015em]">
+                            </button> -->
+                            <!-- <button on:click={shareHorse} class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-gray-200 text-gray-900 text-sm font-bold leading-normal tracking-[0.015em]">
                                 <span class="material-symbols-outlined" style="font-size: 20px;">share</span>
                                 <span class="truncate">Share</span>
-                            </button>
+                            </button> -->
                         </div>
                     </header>
                     <!-- Main Content Grid -->

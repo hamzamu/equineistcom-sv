@@ -60,9 +60,13 @@
         <div class="layout-container flex h-full grow flex-col">
             <div class="flex flex-1 justify-center py-2 lg:px-40 px-4">
                 <div class="layout-content-container flex flex-col max-w-[960px] flex-1">
-                    <main class="flex flex-col gap-4 py-4">
+                    <main class="flex flex-col gap-2 py-4">
+                        <div class="p-3">
+                            <a href="/tools/" class="btn btn-sm btn-primary">Back</a>
+                        </div>
                         <!-- Intro -->
-                        <div class="flex flex-wrap justify-between gap-3 p-4">
+                        <div class="flex flex-wrap justify-betweenx gap-3 p-4">
+                            
                             <div class="flex min-w-72 flex-col gap-3">
                                 <p class="text-[#111813] text-4xl font-black leading-tight tracking-[-0.033em]">
                                     Horse Weight Calculator
