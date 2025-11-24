@@ -5,7 +5,7 @@ date: 2025-11-24
 created: 2025-11-24 20:18:44
 modified: 2025-11-24 20:18:48
 tags: horse,tools,development,self
-cover: m_77.webp
+cover: _kuzy_16__2.jpg
 author: Hamza Mousa
 ---
 You know, I’ve spent the last 15 years living in Turkey,  not just as a doctor, but as someone who’s deeply in love with horses. I’ve moved between farms more times than I can count, chasing better care for my horse, Kuzey, and trying to find a place where every horse felt truly seen. Along the way, I’ve been part of riding clubs, training centers, small stables, and even big equestrian events. And one thing kept hitting me: the way we manage horses is still so manual, so scattered.
